@@ -48,8 +48,8 @@ Cat says:  *purrs and stretches* mrrrroooww~
 
 | Platform | Download | Size |
 |----------|----------|------|
-| Windows | [`KittyMode.exe`](https://github.com/yourusername/kittymode/releases/latest) | ~155 MB |
-| macOS | [`KittyMode.app`](https://github.com/yourusername/kittymode/releases/latest) | ~155 MB |
+| Windows | [`KittyMode.exe`](https://github.com/aslindamood/kittymode/releases/latest) | ~155 MB |
+| macOS | [`KittyMode.app`](https://github.com/aslindamood/kittymode/releases/latest) | ~155 MB |
 
 1. Download for your platform
 2. Run the application
@@ -59,7 +59,7 @@ Cat says:  *purrs and stretches* mrrrroooww~
 ### 🛠️ From Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/kittymode.git
+git clone https://github.com/aslindamood/kittymode.git
 cd kittymode
 
 # Create virtual environment
@@ -308,6 +308,6 @@ MIT License — See [LICENSE](LICENSE) file for details.
 
 *If your cat approves, consider giving this repo a ⭐!*
 
-[Report Bug](https://github.com/yourusername/kittymode/issues) · [Request Feature](https://github.com/yourusername/kittymode/issues)
+[Report Bug](https://github.com/aslindamood/kittymode/issues) · [Request Feature](https://github.com/aslindamood/kittymode/issues)
 
 </div>
