@@ -1,0 +1,116 @@
+name: Build Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version tag (e.g., v1.0.0)'
+        required: true
+        default: 'v1.0.0'
+      create_release:
+        description: 'Create GitHub Release'
+        type: boolean
+        default: true
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        include:
+          - os: windows-latest
+            artifact_name: KittyMode.exe
+            asset_name: KittyMode-windows.exe
+          - os: macos-latest
+            artifact_name: KittyMode.app
+            asset_name: KittyMode-macos.zip
+
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Pull LFS files
+        run: git lfs pull
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pyinstaller pyinstaller-hooks-contrib
+
+      - name: Build with PyInstaller
+        run: python -m PyInstaller --clean kittymode.spec
+
+      - name: Zip macOS app
+        if: matrix.os == 'macos-latest'
+        run: |
+          cd dist
+          zip -r KittyMode-macos.zip KittyMode.app
+
+      - name: Upload Windows artifact
+        if: matrix.os == 'windows-latest'
+        uses: actions/upload-artifact@v4
+        with:
+          name: KittyMode-windows
+          path: dist/KittyMode.exe
+
+      - name: Upload macOS artifact
+        if: matrix.os == 'macos-latest'
+        uses: actions/upload-artifact@v4
+        with:
+          name: KittyMode-macos
+          path: dist/KittyMode-macos.zip
+
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    if: ${{ inputs.create_release }}
+    
+    steps:
+      - name: Download Windows artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: KittyMode-windows
+          path: ./artifacts
+
+      - name: Download macOS artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: KittyMode-macos
+          path: ./artifacts
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ inputs.version }}
+          name: Kitty Mode ${{ inputs.version }} 🐱
+          body: |
+            ## Kitty Mode ${{ inputs.version }}
+            
+            Transform your keyboard into a cat! 🐱
+            
+            ### Downloads
+            - **Windows**: `KittyMode-windows.exe`
+            - **macOS**: `KittyMode-macos.zip` (extract and run KittyMode.app)
+            
+            ### What's New
+            - See [CHANGELOG](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md) for details
+            
+            ---
+            *Made with 😺 for cats and their humans*
+          files: |
+            ./artifacts/KittyMode.exe
+            ./artifacts/KittyMode-macos.zip
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
