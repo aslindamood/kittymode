@@ -20,15 +20,78 @@ datas = [
     (str(model_path), 'models/onnx'),
 ]
 
-# Hidden imports for ONNX Runtime
+# Hidden imports for ONNX Runtime and all dependencies
 hiddenimports = [
+    # Core dependencies
     'onnxruntime',
-    'transformers',
     'numpy',
+    'numpy.core._methods',
+    'numpy.lib.format',
+    
+    # Transformers and tokenizers
+    'transformers',
+    'transformers.models',
+    'transformers.models.auto',
+    'transformers.models.auto.tokenization_auto',
+    'transformers.tokenization_utils',
+    'transformers.tokenization_utils_base',
+    'transformers.tokenization_utils_fast',
+    'transformers.convert_slow_tokenizer',
+    'transformers.utils',
+    'transformers.utils.hub',
+    'transformers.dynamic_module_utils',
     'tokenizers',
+    'tokenizers.models',
+    'tokenizers.normalizers',
+    'tokenizers.pre_tokenizers',
+    'tokenizers.decoders',
+    'tokenizers.trainers',
+    'tokenizers.processors',
+    'tokenizers.implementations',
+    
+    # Huggingface hub
+    'huggingface_hub',
+    'huggingface_hub.file_download',
+    'huggingface_hub.hf_api',
+    'huggingface_hub.utils',
+    
+    # Regex for transformers
+    'regex',
+    'regex._regex',
+    'regex._regex_core',
+    
+    # File handling
+    'safetensors',
+    'filelock',
+    
+    # pynput
+    'pynput',
+    'pynput.keyboard',
+    'pynput.mouse',
     'pynput.keyboard._win32' if sys.platform == 'win32' else 'pynput.keyboard._darwin',
     'pynput.mouse._win32' if sys.platform == 'win32' else 'pynput.mouse._darwin',
+    'pynput._util',
+    'pynput._util.win32' if sys.platform == 'win32' else 'pynput._util.darwin',
+    
+    # PIL/Pillow
+    'PIL',
     'PIL._tkinter_finder',
+    'PIL.Image',
+    'PIL.ImageDraw',
+    
+    # System tray
+    'pystray',
+    'pystray._win32' if sys.platform == 'win32' else 'pystray._darwin',
+    
+    # Tkinter
+    'tkinter',
+    'tkinter.ttk',
+    'tkinter.messagebox',
+    
+    # JSON/serialization
+    'json',
+    
+    # Kittymode modules
     'kittymode',
     'kittymode.main',
     'kittymode.config',
@@ -46,11 +109,23 @@ hiddenimports = [
     'kittymode.startup_check',
 ]
 
+# Collect transformers data files
+from PyInstaller.utils.hooks import collect_data_files, collect_submodules
+
+# Add all transformers submodules
+hiddenimports += collect_submodules('transformers')
+hiddenimports += collect_submodules('tokenizers')
+
+# Collect data files
+additional_datas = []
+additional_datas += collect_data_files('transformers', include_py_files=True)
+additional_datas += collect_data_files('tokenizers')
+
 a = Analysis(
     ['src/kittymode/__main__.py'],
     pathex=[str(src_path)],
     binaries=[],
-    datas=datas,
+    datas=datas + additional_datas,
     hiddenimports=hiddenimports,
     hookspath=[],
     hooksconfig={},
