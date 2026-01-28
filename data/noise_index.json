@@ -1,0 +1,7358 @@
+{
+  "index_to_noise": {
+    "0": {
+      "text": "meow",
+      "category": "base",
+      "base_noise": "meow",
+      "variation_type": null
+    },
+    "1": {
+      "text": "mrow",
+      "category": "base",
+      "base_noise": "mrow",
+      "variation_type": null
+    },
+    "2": {
+      "text": "mew",
+      "category": "base",
+      "base_noise": "mew",
+      "variation_type": null
+    },
+    "3": {
+      "text": "prrrp",
+      "category": "base",
+      "base_noise": "prrrp",
+      "variation_type": null
+    },
+    "4": {
+      "text": "mrrp",
+      "category": "base",
+      "base_noise": "mrrp",
+      "variation_type": null
+    },
+    "5": {
+      "text": "nyaa",
+      "category": "base",
+      "base_noise": "nyaa",
+      "variation_type": null
+    },
+    "6": {
+      "text": "hisss",
+      "category": "base",
+      "base_noise": "hisss",
+      "variation_type": null
+    },
+    "7": {
+      "text": "purrr",
+      "category": "base",
+      "base_noise": "purrr",
+      "variation_type": null
+    },
+    "8": {
+      "text": "mreoow",
+      "category": "base",
+      "base_noise": "mreoow",
+      "variation_type": null
+    },
+    "9": {
+      "text": "mraow",
+      "category": "base",
+      "base_noise": "mraow",
+      "variation_type": null
+    },
+    "10": {
+      "text": "chirrup",
+      "category": "base",
+      "base_noise": "chirrup",
+      "variation_type": null
+    },
+    "11": {
+      "text": "brrp",
+      "category": "base",
+      "base_noise": "brrp",
+      "variation_type": null
+    },
+    "12": {
+      "text": "nya",
+      "category": "base",
+      "base_noise": "nya",
+      "variation_type": null
+    },
+    "13": {
+      "text": "mao",
+      "category": "base",
+      "base_noise": "mao",
+      "variation_type": null
+    },
+    "14": {
+      "text": "miau",
+      "category": "base",
+      "base_noise": "miau",
+      "variation_type": null
+    },
+    "15": {
+      "text": "nyan",
+      "category": "base",
+      "base_noise": "nyan",
+      "variation_type": null
+    },
+    "16": {
+      "text": "reeow",
+      "category": "base",
+      "base_noise": "reeow",
+      "variation_type": null
+    },
+    "17": {
+      "text": "rowl",
+      "category": "base",
+      "base_noise": "rowl",
+      "variation_type": null
+    },
+    "18": {
+      "text": "yowl",
+      "category": "base",
+      "base_noise": "yowl",
+      "variation_type": null
+    },
+    "19": {
+      "text": "mrrrp",
+      "category": "base",
+      "base_noise": "mrrrp",
+      "variation_type": null
+    },
+    "20": {
+      "text": "brrt",
+      "category": "base",
+      "base_noise": "brrt",
+      "variation_type": null
+    },
+    "21": {
+      "text": "trill",
+      "category": "base",
+      "base_noise": "trill",
+      "variation_type": null
+    },
+    "22": {
+      "text": "chirp",
+      "category": "base",
+      "base_noise": "chirp",
+      "variation_type": null
+    },
+    "23": {
+      "text": "caterwaul",
+      "category": "base",
+      "base_noise": "caterwaul",
+      "variation_type": null
+    },
+    "24": {
+      "text": "wail",
+      "category": "base",
+      "base_noise": "wail",
+      "variation_type": null
+    },
+    "25": {
+      "text": "screech",
+      "category": "base",
+      "base_noise": "screech",
+      "variation_type": null
+    },
+    "26": {
+      "text": "squeak",
+      "category": "base",
+      "base_noise": "squeak",
+      "variation_type": null
+    },
+    "27": {
+      "text": "warble",
+      "category": "base",
+      "base_noise": "warble",
+      "variation_type": null
+    },
+    "28": {
+      "text": "chatter",
+      "category": "base",
+      "base_noise": "chatter",
+      "variation_type": null
+    },
+    "29": {
+      "text": "blep",
+      "category": "base",
+      "base_noise": "blep",
+      "variation_type": null
+    },
+    "30": {
+      "text": "meeeow",
+      "category": "elongation",
+      "base_noise": "meow",
+      "variation_type": "vowel_stretch"
+    },
+    "31": {
+      "text": "cateerwaaul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "32": {
+      "text": "meeeeeow",
+      "category": "elongation",
+      "base_noise": "meow",
+      "variation_type": "vowel_stretch"
+    },
+    "33": {
+      "text": "warbleeeee",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "34": {
+      "text": "mroow",
+      "category": "elongation",
+      "base_noise": "mrow",
+      "variation_type": "vowel_stretch"
+    },
+    "35": {
+      "text": "chaaatteer",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "36": {
+      "text": "mraaaooooow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "37": {
+      "text": "mreeeeoow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "38": {
+      "text": "bleep",
+      "category": "elongation",
+      "base_noise": "blep",
+      "variation_type": "vowel_stretch"
+    },
+    "39": {
+      "text": "nyaaaa",
+      "category": "elongation",
+      "base_noise": "nyaa",
+      "variation_type": "vowel_stretch"
+    },
+    "40": {
+      "text": "bleeep",
+      "category": "elongation",
+      "base_noise": "blep",
+      "variation_type": "vowel_stretch"
+    },
+    "41": {
+      "text": "waaaiiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "42": {
+      "text": "hiiiisss",
+      "category": "elongation",
+      "base_noise": "hisss",
+      "variation_type": "vowel_stretch"
+    },
+    "43": {
+      "text": "hiiiiisss",
+      "category": "elongation",
+      "base_noise": "hisss",
+      "variation_type": "vowel_stretch"
+    },
+    "44": {
+      "text": "chaaaaatter",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "45": {
+      "text": "puuuurrr",
+      "category": "elongation",
+      "base_noise": "purrr",
+      "variation_type": "vowel_stretch"
+    },
+    "46": {
+      "text": "caaaaaterwaaauul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "47": {
+      "text": "nyaaaaaaaaaa",
+      "category": "elongation",
+      "base_noise": "nyaa",
+      "variation_type": "vowel_stretch"
+    },
+    "48": {
+      "text": "nyaaaaa",
+      "category": "elongation",
+      "base_noise": "nya",
+      "variation_type": "vowel_stretch"
+    },
+    "49": {
+      "text": "reeeoow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "50": {
+      "text": "triiiill",
+      "category": "elongation",
+      "base_noise": "trill",
+      "variation_type": "vowel_stretch"
+    },
+    "51": {
+      "text": "waail",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "52": {
+      "text": "nyaaaaaaa",
+      "category": "elongation",
+      "base_noise": "nyaa",
+      "variation_type": "vowel_stretch"
+    },
+    "53": {
+      "text": "reeeeeeeow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "54": {
+      "text": "waiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "55": {
+      "text": "chiirruuuup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "56": {
+      "text": "chaatter",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "57": {
+      "text": "nyaaan",
+      "category": "elongation",
+      "base_noise": "nyan",
+      "variation_type": "vowel_stretch"
+    },
+    "58": {
+      "text": "triiill",
+      "category": "elongation",
+      "base_noise": "trill",
+      "variation_type": "vowel_stretch"
+    },
+    "59": {
+      "text": "mreeeeeoooooooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "60": {
+      "text": "triiiiill",
+      "category": "elongation",
+      "base_noise": "trill",
+      "variation_type": "vowel_stretch"
+    },
+    "61": {
+      "text": "yooowl",
+      "category": "elongation",
+      "base_noise": "yowl",
+      "variation_type": "vowel_stretch"
+    },
+    "62": {
+      "text": "meooow",
+      "category": "elongation",
+      "base_noise": "meow",
+      "variation_type": "vowel_stretch"
+    },
+    "63": {
+      "text": "meeeew",
+      "category": "elongation",
+      "base_noise": "mew",
+      "variation_type": "vowel_stretch"
+    },
+    "64": {
+      "text": "caaaaaterwaaaaaul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "65": {
+      "text": "maaoo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "66": {
+      "text": "mroooow",
+      "category": "elongation",
+      "base_noise": "mrow",
+      "variation_type": "vowel_stretch"
+    },
+    "67": {
+      "text": "screeeech",
+      "category": "elongation",
+      "base_noise": "screech",
+      "variation_type": "vowel_stretch"
+    },
+    "68": {
+      "text": "rooooowl",
+      "category": "elongation",
+      "base_noise": "rowl",
+      "variation_type": "vowel_stretch"
+    },
+    "69": {
+      "text": "screeech",
+      "category": "elongation",
+      "base_noise": "screech",
+      "variation_type": "vowel_stretch"
+    },
+    "70": {
+      "text": "roowl",
+      "category": "elongation",
+      "base_noise": "rowl",
+      "variation_type": "vowel_stretch"
+    },
+    "71": {
+      "text": "nyaaaaaa",
+      "category": "elongation",
+      "base_noise": "nyaa",
+      "variation_type": "vowel_stretch"
+    },
+    "72": {
+      "text": "nyaaa",
+      "category": "elongation",
+      "base_noise": "nya",
+      "variation_type": "vowel_stretch"
+    },
+    "73": {
+      "text": "screeeeeeeeech",
+      "category": "elongation",
+      "base_noise": "screech",
+      "variation_type": "vowel_stretch"
+    },
+    "74": {
+      "text": "caterwaaaul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "75": {
+      "text": "reeooow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "76": {
+      "text": "chaatteeeeer",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "77": {
+      "text": "mreoooooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "78": {
+      "text": "meeow",
+      "category": "elongation",
+      "base_noise": "meow",
+      "variation_type": "vowel_stretch"
+    },
+    "79": {
+      "text": "hiiisss",
+      "category": "elongation",
+      "base_noise": "hisss",
+      "variation_type": "vowel_stretch"
+    },
+    "80": {
+      "text": "mraoooow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "81": {
+      "text": "screeeeeech",
+      "category": "elongation",
+      "base_noise": "screech",
+      "variation_type": "vowel_stretch"
+    },
+    "82": {
+      "text": "mreooooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "83": {
+      "text": "mraaaaow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "84": {
+      "text": "warblee",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "85": {
+      "text": "waiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "86": {
+      "text": "caaaaateerwauuul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "87": {
+      "text": "yooooowl",
+      "category": "elongation",
+      "base_noise": "yowl",
+      "variation_type": "vowel_stretch"
+    },
+    "88": {
+      "text": "chaatteeer",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "89": {
+      "text": "waaaaaiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "90": {
+      "text": "caaaaateeerwauul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "91": {
+      "text": "bleeeep",
+      "category": "elongation",
+      "base_noise": "blep",
+      "variation_type": "vowel_stretch"
+    },
+    "92": {
+      "text": "squuueaaaaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "93": {
+      "text": "waiiiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "94": {
+      "text": "yoooowl",
+      "category": "elongation",
+      "base_noise": "yowl",
+      "variation_type": "vowel_stretch"
+    },
+    "95": {
+      "text": "maooooo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "96": {
+      "text": "reeeeow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "97": {
+      "text": "chiiirp",
+      "category": "elongation",
+      "base_noise": "chirp",
+      "variation_type": "vowel_stretch"
+    },
+    "98": {
+      "text": "maoooo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "99": {
+      "text": "reeeeeeooow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "100": {
+      "text": "roooowl",
+      "category": "elongation",
+      "base_noise": "rowl",
+      "variation_type": "vowel_stretch"
+    },
+    "101": {
+      "text": "miiiaaauuuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "102": {
+      "text": "reeeeeooow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "103": {
+      "text": "puurrr",
+      "category": "elongation",
+      "base_noise": "purrr",
+      "variation_type": "vowel_stretch"
+    },
+    "104": {
+      "text": "miiiaaaaauuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "105": {
+      "text": "waaiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "106": {
+      "text": "miaaaauuuuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "107": {
+      "text": "squuuuueeeeeaaaaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "108": {
+      "text": "miauuuuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "109": {
+      "text": "meeew",
+      "category": "elongation",
+      "base_noise": "mew",
+      "variation_type": "vowel_stretch"
+    },
+    "110": {
+      "text": "mreooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "111": {
+      "text": "maaaaaooo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "112": {
+      "text": "squueeeeeaaaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "113": {
+      "text": "mraaaaaooow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "114": {
+      "text": "maaaaao",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "115": {
+      "text": "squuueeaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "116": {
+      "text": "waarble",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "117": {
+      "text": "waaaaiiiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "118": {
+      "text": "mreeeeeooooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "119": {
+      "text": "waaaail",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "120": {
+      "text": "chiirp",
+      "category": "elongation",
+      "base_noise": "chirp",
+      "variation_type": "vowel_stretch"
+    },
+    "121": {
+      "text": "maaoooo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "122": {
+      "text": "chaaatteeeer",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "123": {
+      "text": "chiirrup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "124": {
+      "text": "miaaaaau",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "125": {
+      "text": "reeeooow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "126": {
+      "text": "chiiiiirp",
+      "category": "elongation",
+      "base_noise": "chirp",
+      "variation_type": "vowel_stretch"
+    },
+    "127": {
+      "text": "miiauuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "128": {
+      "text": "mraaaaoooow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "129": {
+      "text": "maaaao",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "130": {
+      "text": "caaaterwaaaauuuul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "131": {
+      "text": "mrooow",
+      "category": "elongation",
+      "base_noise": "mrow",
+      "variation_type": "vowel_stretch"
+    },
+    "132": {
+      "text": "waarbleeee",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "133": {
+      "text": "nyaaaan",
+      "category": "elongation",
+      "base_noise": "nyan",
+      "variation_type": "vowel_stretch"
+    },
+    "134": {
+      "text": "nyaaaaaaaaa",
+      "category": "elongation",
+      "base_noise": "nyaa",
+      "variation_type": "vowel_stretch"
+    },
+    "135": {
+      "text": "squeeak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "136": {
+      "text": "screeeeech",
+      "category": "elongation",
+      "base_noise": "screech",
+      "variation_type": "vowel_stretch"
+    },
+    "137": {
+      "text": "waaaiiiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "138": {
+      "text": "miiiiaaaaau",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "139": {
+      "text": "mraaaaaow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "140": {
+      "text": "puuurrr",
+      "category": "elongation",
+      "base_noise": "purrr",
+      "variation_type": "vowel_stretch"
+    },
+    "141": {
+      "text": "miaaaaauuuuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "142": {
+      "text": "miauuuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "143": {
+      "text": "waaaaiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "144": {
+      "text": "nyaaaaan",
+      "category": "elongation",
+      "base_noise": "nyan",
+      "variation_type": "vowel_stretch"
+    },
+    "145": {
+      "text": "meeeeew",
+      "category": "elongation",
+      "base_noise": "mew",
+      "variation_type": "vowel_stretch"
+    },
+    "146": {
+      "text": "triill",
+      "category": "elongation",
+      "base_noise": "trill",
+      "variation_type": "vowel_stretch"
+    },
+    "147": {
+      "text": "waaiiiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "148": {
+      "text": "miiiau",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "149": {
+      "text": "maoo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "150": {
+      "text": "miiiaaaauuuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "151": {
+      "text": "chiiiirruuuup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "152": {
+      "text": "cateeeeerwaaaaauuuul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "153": {
+      "text": "chiiiiirruuuup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "154": {
+      "text": "puuuuurrr",
+      "category": "elongation",
+      "base_noise": "purrr",
+      "variation_type": "vowel_stretch"
+    },
+    "155": {
+      "text": "reeeeeeeeeow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "156": {
+      "text": "maaao",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "157": {
+      "text": "chiiiiirruup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "158": {
+      "text": "cateerwaaaauul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "159": {
+      "text": "chiiiirrup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "160": {
+      "text": "maooo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "161": {
+      "text": "blep blep blep blep",
+      "category": "repetition",
+      "base_noise": "blep",
+      "variation_type": "repeat_4x"
+    },
+    "162": {
+      "text": "purrr purrr purrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_3x"
+    },
+    "163": {
+      "text": "miau miau miau",
+      "category": "repetition",
+      "base_noise": "miau",
+      "variation_type": "repeat_3x"
+    },
+    "164": {
+      "text": "chatter chatter chatter",
+      "category": "repetition",
+      "base_noise": "chatter",
+      "variation_type": "repeat_3x"
+    },
+    "165": {
+      "text": "trill trill trill trill",
+      "category": "repetition",
+      "base_noise": "trill",
+      "variation_type": "repeat_4x"
+    },
+    "166": {
+      "text": "mew mew mew",
+      "category": "repetition",
+      "base_noise": "mew",
+      "variation_type": "repeat_3x"
+    },
+    "167": {
+      "text": "yowl-yowl-yowl",
+      "category": "repetition",
+      "base_noise": "yowl",
+      "variation_type": "repeat_3x"
+    },
+    "168": {
+      "text": "chirp-chirp-chirp",
+      "category": "repetition",
+      "base_noise": "chirp",
+      "variation_type": "repeat_3x"
+    },
+    "169": {
+      "text": "warble warble warble",
+      "category": "repetition",
+      "base_noise": "warble",
+      "variation_type": "repeat_3x"
+    },
+    "170": {
+      "text": "nya nya nya",
+      "category": "repetition",
+      "base_noise": "nya",
+      "variation_type": "repeat_3x"
+    },
+    "171": {
+      "text": "purrrpurrrpurrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_3x"
+    },
+    "172": {
+      "text": "brrp brrp brrp brrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_4x"
+    },
+    "173": {
+      "text": "chirp chirp chirp",
+      "category": "repetition",
+      "base_noise": "chirp",
+      "variation_type": "repeat_3x"
+    },
+    "174": {
+      "text": "squeak-squeak-squeak-squeak",
+      "category": "repetition",
+      "base_noise": "squeak",
+      "variation_type": "repeat_4x"
+    },
+    "175": {
+      "text": "mreoowmreoow",
+      "category": "repetition",
+      "base_noise": "mreoow",
+      "variation_type": "repeat_2x"
+    },
+    "176": {
+      "text": "warble warble warble warble",
+      "category": "repetition",
+      "base_noise": "warble",
+      "variation_type": "repeat_4x"
+    },
+    "177": {
+      "text": "blep-blep-blep-blep",
+      "category": "repetition",
+      "base_noise": "blep",
+      "variation_type": "repeat_4x"
+    },
+    "178": {
+      "text": "squeak squeak squeak",
+      "category": "repetition",
+      "base_noise": "squeak",
+      "variation_type": "repeat_3x"
+    },
+    "179": {
+      "text": "mrrrp mrrrp mrrrp",
+      "category": "repetition",
+      "base_noise": "mrrrp",
+      "variation_type": "repeat_3x"
+    },
+    "180": {
+      "text": "brrtbrrt",
+      "category": "repetition",
+      "base_noise": "brrt",
+      "variation_type": "repeat_2x"
+    },
+    "181": {
+      "text": "mreoow mreoow mreoow mreoow",
+      "category": "repetition",
+      "base_noise": "mreoow",
+      "variation_type": "repeat_4x"
+    },
+    "182": {
+      "text": "brrt brrt",
+      "category": "repetition",
+      "base_noise": "brrt",
+      "variation_type": "repeat_2x"
+    },
+    "183": {
+      "text": "mraow mraow mraow",
+      "category": "repetition",
+      "base_noise": "mraow",
+      "variation_type": "repeat_3x"
+    },
+    "184": {
+      "text": "yowl yowl yowl",
+      "category": "repetition",
+      "base_noise": "yowl",
+      "variation_type": "repeat_3x"
+    },
+    "185": {
+      "text": "caterwaul caterwaul caterwaul",
+      "category": "repetition",
+      "base_noise": "caterwaul",
+      "variation_type": "repeat_3x"
+    },
+    "186": {
+      "text": "hissshisss",
+      "category": "repetition",
+      "base_noise": "hisss",
+      "variation_type": "repeat_2x"
+    },
+    "187": {
+      "text": "chatterchatterchatter",
+      "category": "repetition",
+      "base_noise": "chatter",
+      "variation_type": "repeat_3x"
+    },
+    "188": {
+      "text": "reeow reeow reeow",
+      "category": "repetition",
+      "base_noise": "reeow",
+      "variation_type": "repeat_3x"
+    },
+    "189": {
+      "text": "mreoow mreoow mreoow",
+      "category": "repetition",
+      "base_noise": "mreoow",
+      "variation_type": "repeat_3x"
+    },
+    "190": {
+      "text": "miau miau",
+      "category": "repetition",
+      "base_noise": "miau",
+      "variation_type": "repeat_2x"
+    },
+    "191": {
+      "text": "wail-wail",
+      "category": "repetition",
+      "base_noise": "wail",
+      "variation_type": "repeat_2x"
+    },
+    "192": {
+      "text": "prrrp prrrp prrrp prrrp",
+      "category": "repetition",
+      "base_noise": "prrrp",
+      "variation_type": "repeat_4x"
+    },
+    "193": {
+      "text": "nyannyan",
+      "category": "repetition",
+      "base_noise": "nyan",
+      "variation_type": "repeat_2x"
+    },
+    "194": {
+      "text": "chatter chatter chatter chatter",
+      "category": "repetition",
+      "base_noise": "chatter",
+      "variation_type": "repeat_4x"
+    },
+    "195": {
+      "text": "brrt-brrt",
+      "category": "repetition",
+      "base_noise": "brrt",
+      "variation_type": "repeat_2x"
+    },
+    "196": {
+      "text": "brrt brrt brrt",
+      "category": "repetition",
+      "base_noise": "brrt",
+      "variation_type": "repeat_3x"
+    },
+    "197": {
+      "text": "mrrp mrrp",
+      "category": "repetition",
+      "base_noise": "mrrp",
+      "variation_type": "repeat_2x"
+    },
+    "198": {
+      "text": "prrrpprrrp",
+      "category": "repetition",
+      "base_noise": "prrrp",
+      "variation_type": "repeat_2x"
+    },
+    "199": {
+      "text": "mrrp-mrrp-mrrp",
+      "category": "repetition",
+      "base_noise": "mrrp",
+      "variation_type": "repeat_3x"
+    },
+    "200": {
+      "text": "brrpbrrpbrrpbrrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_4x"
+    },
+    "201": {
+      "text": "mao mao mao mao",
+      "category": "repetition",
+      "base_noise": "mao",
+      "variation_type": "repeat_4x"
+    },
+    "202": {
+      "text": "squeaksqueaksqueak",
+      "category": "repetition",
+      "base_noise": "squeak",
+      "variation_type": "repeat_3x"
+    },
+    "203": {
+      "text": "mao mao mao",
+      "category": "repetition",
+      "base_noise": "mao",
+      "variation_type": "repeat_3x"
+    },
+    "204": {
+      "text": "trilltrilltrill",
+      "category": "repetition",
+      "base_noise": "trill",
+      "variation_type": "repeat_3x"
+    },
+    "205": {
+      "text": "mrow mrow mrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_3x"
+    },
+    "206": {
+      "text": "hisss-hisss",
+      "category": "repetition",
+      "base_noise": "hisss",
+      "variation_type": "repeat_2x"
+    },
+    "207": {
+      "text": "mew mew mew mew",
+      "category": "repetition",
+      "base_noise": "mew",
+      "variation_type": "repeat_4x"
+    },
+    "208": {
+      "text": "brrtbrrtbrrtbrrt",
+      "category": "repetition",
+      "base_noise": "brrt",
+      "variation_type": "repeat_4x"
+    },
+    "209": {
+      "text": "meow meow",
+      "category": "repetition",
+      "base_noise": "meow",
+      "variation_type": "repeat_2x"
+    },
+    "210": {
+      "text": "purrrpurrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_2x"
+    },
+    "211": {
+      "text": "hisss hisss hisss hisss",
+      "category": "repetition",
+      "base_noise": "hisss",
+      "variation_type": "repeat_4x"
+    },
+    "212": {
+      "text": "squeak squeak",
+      "category": "repetition",
+      "base_noise": "squeak",
+      "variation_type": "repeat_2x"
+    },
+    "213": {
+      "text": "wailwail",
+      "category": "repetition",
+      "base_noise": "wail",
+      "variation_type": "repeat_2x"
+    },
+    "214": {
+      "text": "meow meow meow",
+      "category": "repetition",
+      "base_noise": "meow",
+      "variation_type": "repeat_3x"
+    },
+    "215": {
+      "text": "mrrp mrrp mrrp mrrp",
+      "category": "repetition",
+      "base_noise": "mrrp",
+      "variation_type": "repeat_4x"
+    },
+    "216": {
+      "text": "screech screech",
+      "category": "repetition",
+      "base_noise": "screech",
+      "variation_type": "repeat_2x"
+    },
+    "217": {
+      "text": "trill trill",
+      "category": "repetition",
+      "base_noise": "trill",
+      "variation_type": "repeat_2x"
+    },
+    "218": {
+      "text": "nyaa nyaa nyaa",
+      "category": "repetition",
+      "base_noise": "nyaa",
+      "variation_type": "repeat_3x"
+    },
+    "219": {
+      "text": "mrrp-mrrp-mrrp-mrrp",
+      "category": "repetition",
+      "base_noise": "mrrp",
+      "variation_type": "repeat_4x"
+    },
+    "220": {
+      "text": "reeow reeow",
+      "category": "repetition",
+      "base_noise": "reeow",
+      "variation_type": "repeat_2x"
+    },
+    "221": {
+      "text": "nyan nyan nyan",
+      "category": "repetition",
+      "base_noise": "nyan",
+      "variation_type": "repeat_3x"
+    },
+    "222": {
+      "text": "reeow reeow reeow reeow",
+      "category": "repetition",
+      "base_noise": "reeow",
+      "variation_type": "repeat_4x"
+    },
+    "223": {
+      "text": "miau miau miau miau",
+      "category": "repetition",
+      "base_noise": "miau",
+      "variation_type": "repeat_4x"
+    },
+    "224": {
+      "text": "mrrrpmrrrp",
+      "category": "repetition",
+      "base_noise": "mrrrp",
+      "variation_type": "repeat_2x"
+    },
+    "225": {
+      "text": "mrow-mrow-mrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_3x"
+    },
+    "226": {
+      "text": "nyan-nyan-nyan-nyan",
+      "category": "repetition",
+      "base_noise": "nyan",
+      "variation_type": "repeat_4x"
+    },
+    "227": {
+      "text": "mew mew",
+      "category": "repetition",
+      "base_noise": "mew",
+      "variation_type": "repeat_2x"
+    },
+    "228": {
+      "text": "mrrrp mrrrp",
+      "category": "repetition",
+      "base_noise": "mrrrp",
+      "variation_type": "repeat_2x"
+    },
+    "229": {
+      "text": "mrrpmrrpmrrp",
+      "category": "repetition",
+      "base_noise": "mrrp",
+      "variation_type": "repeat_3x"
+    },
+    "230": {
+      "text": "mrrrp mrrrp mrrrp mrrrp",
+      "category": "repetition",
+      "base_noise": "mrrrp",
+      "variation_type": "repeat_4x"
+    },
+    "231": {
+      "text": "miaumiaumiaumiau",
+      "category": "repetition",
+      "base_noise": "miau",
+      "variation_type": "repeat_4x"
+    },
+    "232": {
+      "text": "mao mao",
+      "category": "repetition",
+      "base_noise": "mao",
+      "variation_type": "repeat_2x"
+    },
+    "233": {
+      "text": "warblewarblewarblewarble",
+      "category": "repetition",
+      "base_noise": "warble",
+      "variation_type": "repeat_4x"
+    },
+    "234": {
+      "text": "caterwaul-caterwaul",
+      "category": "repetition",
+      "base_noise": "caterwaul",
+      "variation_type": "repeat_2x"
+    },
+    "235": {
+      "text": "miau-miau",
+      "category": "repetition",
+      "base_noise": "miau",
+      "variation_type": "repeat_2x"
+    },
+    "236": {
+      "text": "chirrup-chirrup-chirrup",
+      "category": "repetition",
+      "base_noise": "chirrup",
+      "variation_type": "repeat_3x"
+    },
+    "237": {
+      "text": "chirrup chirrup chirrup",
+      "category": "repetition",
+      "base_noise": "chirrup",
+      "variation_type": "repeat_3x"
+    },
+    "238": {
+      "text": "trill trill trill",
+      "category": "repetition",
+      "base_noise": "trill",
+      "variation_type": "repeat_3x"
+    },
+    "239": {
+      "text": "caterwaul caterwaul caterwaul caterwaul",
+      "category": "repetition",
+      "base_noise": "caterwaul",
+      "variation_type": "repeat_4x"
+    },
+    "240": {
+      "text": "screechscreech",
+      "category": "repetition",
+      "base_noise": "screech",
+      "variation_type": "repeat_2x"
+    },
+    "241": {
+      "text": "mrowmrowmrowmrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_4x"
+    },
+    "242": {
+      "text": "rowl rowl rowl",
+      "category": "repetition",
+      "base_noise": "rowl",
+      "variation_type": "repeat_3x"
+    },
+    "243": {
+      "text": "mao-mao-mao",
+      "category": "repetition",
+      "base_noise": "mao",
+      "variation_type": "repeat_3x"
+    },
+    "244": {
+      "text": "mraow mraow mraow mraow",
+      "category": "repetition",
+      "base_noise": "mraow",
+      "variation_type": "repeat_4x"
+    },
+    "245": {
+      "text": "brrpbrrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_2x"
+    },
+    "246": {
+      "text": "warble warble",
+      "category": "repetition",
+      "base_noise": "warble",
+      "variation_type": "repeat_2x"
+    },
+    "247": {
+      "text": "prrrpprrrpprrrp",
+      "category": "repetition",
+      "base_noise": "prrrp",
+      "variation_type": "repeat_3x"
+    },
+    "248": {
+      "text": "wailwailwailwail",
+      "category": "repetition",
+      "base_noise": "wail",
+      "variation_type": "repeat_4x"
+    },
+    "249": {
+      "text": "trilltrilltrilltrill",
+      "category": "repetition",
+      "base_noise": "trill",
+      "variation_type": "repeat_4x"
+    },
+    "250": {
+      "text": "meow meow meow meow",
+      "category": "repetition",
+      "base_noise": "meow",
+      "variation_type": "repeat_4x"
+    },
+    "251": {
+      "text": "brrp brrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_2x"
+    },
+    "252": {
+      "text": "warblewarble",
+      "category": "repetition",
+      "base_noise": "warble",
+      "variation_type": "repeat_2x"
+    },
+    "253": {
+      "text": "mewmewmewmew",
+      "category": "repetition",
+      "base_noise": "mew",
+      "variation_type": "repeat_4x"
+    },
+    "254": {
+      "text": "hisss-hisss-hisss",
+      "category": "repetition",
+      "base_noise": "hisss",
+      "variation_type": "repeat_3x"
+    },
+    "255": {
+      "text": "brrp brrp brrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_3x"
+    },
+    "256": {
+      "text": "nyaa nyaa nyaa nyaa",
+      "category": "repetition",
+      "base_noise": "nyaa",
+      "variation_type": "repeat_4x"
+    },
+    "257": {
+      "text": "miau-miau-miau-miau",
+      "category": "repetition",
+      "base_noise": "miau",
+      "variation_type": "repeat_4x"
+    },
+    "258": {
+      "text": "wail wail wail wail",
+      "category": "repetition",
+      "base_noise": "wail",
+      "variation_type": "repeat_4x"
+    },
+    "259": {
+      "text": "mraowmraowmraowmraow",
+      "category": "repetition",
+      "base_noise": "mraow",
+      "variation_type": "repeat_4x"
+    },
+    "260": {
+      "text": "nyan nyan nyan nyan",
+      "category": "repetition",
+      "base_noise": "nyan",
+      "variation_type": "repeat_4x"
+    },
+    "261": {
+      "text": "mrow-mrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_2x"
+    },
+    "262": {
+      "text": "hisss hisss hisss",
+      "category": "repetition",
+      "base_noise": "hisss",
+      "variation_type": "repeat_3x"
+    },
+    "263": {
+      "text": "wail wail",
+      "category": "repetition",
+      "base_noise": "wail",
+      "variation_type": "repeat_2x"
+    },
+    "264": {
+      "text": "meow-meow-meow",
+      "category": "repetition",
+      "base_noise": "meow",
+      "variation_type": "repeat_3x"
+    },
+    "265": {
+      "text": "nyaa-nyaa",
+      "category": "repetition",
+      "base_noise": "nyaa",
+      "variation_type": "repeat_2x"
+    },
+    "266": {
+      "text": "rowl rowl rowl rowl",
+      "category": "repetition",
+      "base_noise": "rowl",
+      "variation_type": "repeat_4x"
+    },
+    "267": {
+      "text": "mao-mao",
+      "category": "repetition",
+      "base_noise": "mao",
+      "variation_type": "repeat_2x"
+    },
+    "268": {
+      "text": "blep blep",
+      "category": "repetition",
+      "base_noise": "blep",
+      "variation_type": "repeat_2x"
+    },
+    "269": {
+      "text": "yowlyowlyowl",
+      "category": "repetition",
+      "base_noise": "yowl",
+      "variation_type": "repeat_3x"
+    },
+    "270": {
+      "text": "nya-nya-nya-nya",
+      "category": "repetition",
+      "base_noise": "nya",
+      "variation_type": "repeat_4x"
+    },
+    "271": {
+      "text": "mraow-mraow",
+      "category": "repetition",
+      "base_noise": "mraow",
+      "variation_type": "repeat_2x"
+    },
+    "272": {
+      "text": "screech-screech-screech-screech",
+      "category": "repetition",
+      "base_noise": "screech",
+      "variation_type": "repeat_4x"
+    },
+    "273": {
+      "text": "squeak squeak squeak squeak",
+      "category": "repetition",
+      "base_noise": "squeak",
+      "variation_type": "repeat_4x"
+    },
+    "274": {
+      "text": "nya nya nya nya",
+      "category": "repetition",
+      "base_noise": "nya",
+      "variation_type": "repeat_4x"
+    },
+    "275": {
+      "text": "purrr purrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_2x"
+    },
+    "276": {
+      "text": "mreoow mreoow",
+      "category": "repetition",
+      "base_noise": "mreoow",
+      "variation_type": "repeat_2x"
+    },
+    "277": {
+      "text": "nyaa-nyaa-nyaa-nyaa",
+      "category": "repetition",
+      "base_noise": "nyaa",
+      "variation_type": "repeat_4x"
+    },
+    "278": {
+      "text": "chirrup chirrup chirrup chirrup",
+      "category": "repetition",
+      "base_noise": "chirrup",
+      "variation_type": "repeat_4x"
+    },
+    "279": {
+      "text": "mrrp mrrp mrrp",
+      "category": "repetition",
+      "base_noise": "mrrp",
+      "variation_type": "repeat_3x"
+    },
+    "280": {
+      "text": "screechscreechscreech",
+      "category": "repetition",
+      "base_noise": "screech",
+      "variation_type": "repeat_3x"
+    },
+    "281": {
+      "text": "mrowmrowmrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_3x"
+    },
+    "282": {
+      "text": "mew-mew-mew",
+      "category": "repetition",
+      "base_noise": "mew",
+      "variation_type": "repeat_3x"
+    },
+    "283": {
+      "text": "mrrrp-mrrrp-mrrrp-mrrrp",
+      "category": "repetition",
+      "base_noise": "mrrrp",
+      "variation_type": "repeat_4x"
+    },
+    "284": {
+      "text": "screech screech screech screech",
+      "category": "repetition",
+      "base_noise": "screech",
+      "variation_type": "repeat_4x"
+    },
+    "285": {
+      "text": "chirrup-chirrup-chirrup-chirrup",
+      "category": "repetition",
+      "base_noise": "chirrup",
+      "variation_type": "repeat_4x"
+    },
+    "286": {
+      "text": "chirpchirp",
+      "category": "repetition",
+      "base_noise": "chirp",
+      "variation_type": "repeat_2x"
+    },
+    "287": {
+      "text": "purrr-purrr-purrr-purrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_4x"
+    },
+    "288": {
+      "text": "brrp-brrp-brrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_3x"
+    },
+    "289": {
+      "text": "maomaomao",
+      "category": "repetition",
+      "base_noise": "mao",
+      "variation_type": "repeat_3x"
+    },
+    "290": {
+      "text": "mrow mrow mrow mrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_4x"
+    },
+    "291": {
+      "text": "mew??",
+      "category": "punctuation",
+      "base_noise": "mew",
+      "variation_type": "ending"
+    },
+    "292": {
+      "text": "prrrp~~~",
+      "category": "punctuation",
+      "base_noise": "prrrp",
+      "variation_type": "ending"
+    },
+    "293": {
+      "text": "trill?!",
+      "category": "punctuation",
+      "base_noise": "trill",
+      "variation_type": "ending"
+    },
+    "294": {
+      "text": "mraow!!",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "ending"
+    },
+    "295": {
+      "text": "caterwaul...",
+      "category": "punctuation",
+      "base_noise": "caterwaul",
+      "variation_type": "ending"
+    },
+    "296": {
+      "text": "chirrup!",
+      "category": "punctuation",
+      "base_noise": "chirrup",
+      "variation_type": "ending"
+    },
+    "297": {
+      "text": "yowl...",
+      "category": "punctuation",
+      "base_noise": "yowl",
+      "variation_type": "ending"
+    },
+    "298": {
+      "text": "blep??",
+      "category": "punctuation",
+      "base_noise": "blep",
+      "variation_type": "ending"
+    },
+    "299": {
+      "text": "mraow?!",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "ending"
+    },
+    "300": {
+      "text": "mrrp!",
+      "category": "punctuation",
+      "base_noise": "mrrp",
+      "variation_type": "ending"
+    },
+    "301": {
+      "text": "mraow~~~",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "ending"
+    },
+    "302": {
+      "text": "nya??",
+      "category": "punctuation",
+      "base_noise": "nya",
+      "variation_type": "ending"
+    },
+    "303": {
+      "text": "squeak...",
+      "category": "punctuation",
+      "base_noise": "squeak",
+      "variation_type": "ending"
+    },
+    "304": {
+      "text": "trill~~~",
+      "category": "punctuation",
+      "base_noise": "trill",
+      "variation_type": "ending"
+    },
+    "305": {
+      "text": "mew?!",
+      "category": "punctuation",
+      "base_noise": "mew",
+      "variation_type": "ending"
+    },
+    "306": {
+      "text": "reeow??",
+      "category": "punctuation",
+      "base_noise": "reeow",
+      "variation_type": "ending"
+    },
+    "307": {
+      "text": "meow??",
+      "category": "punctuation",
+      "base_noise": "meow",
+      "variation_type": "ending"
+    },
+    "308": {
+      "text": "mraow...",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "ending"
+    },
+    "309": {
+      "text": "hisss??",
+      "category": "punctuation",
+      "base_noise": "hisss",
+      "variation_type": "ending"
+    },
+    "310": {
+      "text": "wail!?",
+      "category": "punctuation",
+      "base_noise": "wail",
+      "variation_type": "ending"
+    },
+    "311": {
+      "text": "hisss~",
+      "category": "punctuation",
+      "base_noise": "hisss",
+      "variation_type": "ending"
+    },
+    "312": {
+      "text": "mrrp...",
+      "category": "punctuation",
+      "base_noise": "mrrp",
+      "variation_type": "ending"
+    },
+    "313": {
+      "text": "mew!!",
+      "category": "punctuation",
+      "base_noise": "mew",
+      "variation_type": "ending"
+    },
+    "314": {
+      "text": "warble!",
+      "category": "punctuation",
+      "base_noise": "warble",
+      "variation_type": "ending"
+    },
+    "315": {
+      "text": "reeow~~~",
+      "category": "punctuation",
+      "base_noise": "reeow",
+      "variation_type": "ending"
+    },
+    "316": {
+      "text": "squeak~~~",
+      "category": "punctuation",
+      "base_noise": "squeak",
+      "variation_type": "ending"
+    },
+    "317": {
+      "text": "mrow??",
+      "category": "punctuation",
+      "base_noise": "mrow",
+      "variation_type": "ending"
+    },
+    "318": {
+      "text": "chatter...",
+      "category": "punctuation",
+      "base_noise": "chatter",
+      "variation_type": "ending"
+    },
+    "319": {
+      "text": "mrrrp?!",
+      "category": "punctuation",
+      "base_noise": "mrrrp",
+      "variation_type": "ending"
+    },
+    "320": {
+      "text": "nyaa...",
+      "category": "punctuation",
+      "base_noise": "nyaa",
+      "variation_type": "ending"
+    },
+    "321": {
+      "text": "caterwaul!?",
+      "category": "punctuation",
+      "base_noise": "caterwaul",
+      "variation_type": "ending"
+    },
+    "322": {
+      "text": "mrow?!",
+      "category": "punctuation",
+      "base_noise": "mrow",
+      "variation_type": "ending"
+    },
+    "323": {
+      "text": "brrp~",
+      "category": "punctuation",
+      "base_noise": "brrp",
+      "variation_type": "ending"
+    },
+    "324": {
+      "text": "miau!!",
+      "category": "punctuation",
+      "base_noise": "miau",
+      "variation_type": "ending"
+    },
+    "325": {
+      "text": "purrr~~~",
+      "category": "punctuation",
+      "base_noise": "purrr",
+      "variation_type": "ending"
+    },
+    "326": {
+      "text": "purrr!!",
+      "category": "punctuation",
+      "base_noise": "purrr",
+      "variation_type": "ending"
+    },
+    "327": {
+      "text": "screech!?",
+      "category": "punctuation",
+      "base_noise": "screech",
+      "variation_type": "ending"
+    },
+    "328": {
+      "text": "chatter~",
+      "category": "punctuation",
+      "base_noise": "chatter",
+      "variation_type": "ending"
+    },
+    "329": {
+      "text": "brrp!?",
+      "category": "punctuation",
+      "base_noise": "brrp",
+      "variation_type": "ending"
+    },
+    "330": {
+      "text": "wail?!",
+      "category": "punctuation",
+      "base_noise": "wail",
+      "variation_type": "ending"
+    },
+    "331": {
+      "text": "mao...",
+      "category": "punctuation",
+      "base_noise": "mao",
+      "variation_type": "ending"
+    },
+    "332": {
+      "text": "squeak~",
+      "category": "punctuation",
+      "base_noise": "squeak",
+      "variation_type": "ending"
+    },
+    "333": {
+      "text": "screech...",
+      "category": "punctuation",
+      "base_noise": "screech",
+      "variation_type": "ending"
+    },
+    "334": {
+      "text": "warble!!",
+      "category": "punctuation",
+      "base_noise": "warble",
+      "variation_type": "ending"
+    },
+    "335": {
+      "text": "mrow!?",
+      "category": "punctuation",
+      "base_noise": "mrow",
+      "variation_type": "ending"
+    },
+    "336": {
+      "text": "warble??",
+      "category": "punctuation",
+      "base_noise": "warble",
+      "variation_type": "ending"
+    },
+    "337": {
+      "text": "rowl!",
+      "category": "punctuation",
+      "base_noise": "rowl",
+      "variation_type": "ending"
+    },
+    "338": {
+      "text": "chirp~~~",
+      "category": "punctuation",
+      "base_noise": "chirp",
+      "variation_type": "ending"
+    },
+    "339": {
+      "text": "mraow!",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "ending"
+    },
+    "340": {
+      "text": "wail...",
+      "category": "punctuation",
+      "base_noise": "wail",
+      "variation_type": "ending"
+    },
+    "341": {
+      "text": "mreoow!?",
+      "category": "punctuation",
+      "base_noise": "mreoow",
+      "variation_type": "ending"
+    },
+    "342": {
+      "text": "chatter~~~",
+      "category": "punctuation",
+      "base_noise": "chatter",
+      "variation_type": "ending"
+    },
+    "343": {
+      "text": "mrrp?!",
+      "category": "punctuation",
+      "base_noise": "mrrp",
+      "variation_type": "ending"
+    },
+    "344": {
+      "text": "mew~",
+      "category": "punctuation",
+      "base_noise": "mew",
+      "variation_type": "ending"
+    },
+    "345": {
+      "text": "squeak!?",
+      "category": "punctuation",
+      "base_noise": "squeak",
+      "variation_type": "ending"
+    },
+    "346": {
+      "text": "chatter??",
+      "category": "punctuation",
+      "base_noise": "chatter",
+      "variation_type": "ending"
+    },
+    "347": {
+      "text": "blep?",
+      "category": "punctuation",
+      "base_noise": "blep",
+      "variation_type": "ending"
+    },
+    "348": {
+      "text": "mao?",
+      "category": "punctuation",
+      "base_noise": "mao",
+      "variation_type": "ending"
+    },
+    "349": {
+      "text": "nya~~~",
+      "category": "punctuation",
+      "base_noise": "nya",
+      "variation_type": "ending"
+    },
+    "350": {
+      "text": "nya!",
+      "category": "punctuation",
+      "base_noise": "nya",
+      "variation_type": "ending"
+    },
+    "351": {
+      "text": "blep!",
+      "category": "punctuation",
+      "base_noise": "blep",
+      "variation_type": "ending"
+    },
+    "352": {
+      "text": "squeak??",
+      "category": "punctuation",
+      "base_noise": "squeak",
+      "variation_type": "ending"
+    },
+    "353": {
+      "text": "mrrp?",
+      "category": "punctuation",
+      "base_noise": "mrrp",
+      "variation_type": "ending"
+    },
+    "354": {
+      "text": "mraow!?",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "ending"
+    },
+    "355": {
+      "text": "chirp...",
+      "category": "punctuation",
+      "base_noise": "chirp",
+      "variation_type": "ending"
+    },
+    "356": {
+      "text": "(miau)",
+      "category": "punctuation",
+      "base_noise": "miau",
+      "variation_type": "wrapped"
+    },
+    "357": {
+      "text": "*meow*",
+      "category": "punctuation",
+      "base_noise": "meow",
+      "variation_type": "wrapped"
+    },
+    "358": {
+      "text": "*meows*",
+      "category": "punctuation",
+      "base_noise": "meow",
+      "variation_type": "wrapped"
+    },
+    "359": {
+      "text": "~hisss~",
+      "category": "punctuation",
+      "base_noise": "hisss",
+      "variation_type": "wrapped"
+    },
+    "360": {
+      "text": "(rowl)",
+      "category": "punctuation",
+      "base_noise": "rowl",
+      "variation_type": "wrapped"
+    },
+    "361": {
+      "text": "<reeow>",
+      "category": "punctuation",
+      "base_noise": "reeow",
+      "variation_type": "wrapped"
+    },
+    "362": {
+      "text": "*prrrps*",
+      "category": "punctuation",
+      "base_noise": "prrrp",
+      "variation_type": "wrapped"
+    },
+    "363": {
+      "text": "*purrrs*",
+      "category": "punctuation",
+      "base_noise": "purrr",
+      "variation_type": "wrapped"
+    },
+    "364": {
+      "text": "*prrrp*",
+      "category": "punctuation",
+      "base_noise": "prrrp",
+      "variation_type": "wrapped"
+    },
+    "365": {
+      "text": "<purrr>",
+      "category": "punctuation",
+      "base_noise": "purrr",
+      "variation_type": "wrapped"
+    },
+    "366": {
+      "text": "(brrt)",
+      "category": "punctuation",
+      "base_noise": "brrt",
+      "variation_type": "wrapped"
+    },
+    "367": {
+      "text": "*miau*",
+      "category": "punctuation",
+      "base_noise": "miau",
+      "variation_type": "wrapped"
+    },
+    "368": {
+      "text": "<prrrp>",
+      "category": "punctuation",
+      "base_noise": "prrrp",
+      "variation_type": "wrapped"
+    },
+    "369": {
+      "text": "(mrrrp)",
+      "category": "punctuation",
+      "base_noise": "mrrrp",
+      "variation_type": "wrapped"
+    },
+    "370": {
+      "text": "(meow)",
+      "category": "punctuation",
+      "base_noise": "meow",
+      "variation_type": "wrapped"
+    },
+    "371": {
+      "text": "~yowl~",
+      "category": "punctuation",
+      "base_noise": "yowl",
+      "variation_type": "wrapped"
+    },
+    "372": {
+      "text": "~chirp~",
+      "category": "punctuation",
+      "base_noise": "chirp",
+      "variation_type": "wrapped"
+    },
+    "373": {
+      "text": "<mraow>",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "wrapped"
+    },
+    "374": {
+      "text": "~brrp~",
+      "category": "punctuation",
+      "base_noise": "brrp",
+      "variation_type": "wrapped"
+    },
+    "375": {
+      "text": "<yowl>",
+      "category": "punctuation",
+      "base_noise": "yowl",
+      "variation_type": "wrapped"
+    },
+    "376": {
+      "text": "*nyaa*",
+      "category": "punctuation",
+      "base_noise": "nyaa",
+      "variation_type": "wrapped"
+    },
+    "377": {
+      "text": "*reeows*",
+      "category": "punctuation",
+      "base_noise": "reeow",
+      "variation_type": "wrapped"
+    },
+    "378": {
+      "text": "(mew)",
+      "category": "punctuation",
+      "base_noise": "mew",
+      "variation_type": "wrapped"
+    },
+    "379": {
+      "text": "(screech)",
+      "category": "punctuation",
+      "base_noise": "screech",
+      "variation_type": "wrapped"
+    },
+    "380": {
+      "text": "*rowl*",
+      "category": "punctuation",
+      "base_noise": "rowl",
+      "variation_type": "wrapped"
+    },
+    "381": {
+      "text": "<nya>",
+      "category": "punctuation",
+      "base_noise": "nya",
+      "variation_type": "wrapped"
+    },
+    "382": {
+      "text": "<mrow>",
+      "category": "punctuation",
+      "base_noise": "mrow",
+      "variation_type": "wrapped"
+    },
+    "383": {
+      "text": "*brrps*",
+      "category": "punctuation",
+      "base_noise": "brrp",
+      "variation_type": "wrapped"
+    },
+    "384": {
+      "text": "*caterwaul*",
+      "category": "punctuation",
+      "base_noise": "caterwaul",
+      "variation_type": "wrapped"
+    },
+    "385": {
+      "text": "*brrp*",
+      "category": "punctuation",
+      "base_noise": "brrp",
+      "variation_type": "wrapped"
+    },
+    "386": {
+      "text": "(wail)",
+      "category": "punctuation",
+      "base_noise": "wail",
+      "variation_type": "wrapped"
+    },
+    "387": {
+      "text": "*caterwauls*",
+      "category": "punctuation",
+      "base_noise": "caterwaul",
+      "variation_type": "wrapped"
+    },
+    "388": {
+      "text": "*mrrp*",
+      "category": "punctuation",
+      "base_noise": "mrrp",
+      "variation_type": "wrapped"
+    },
+    "389": {
+      "text": "(brrp)",
+      "category": "punctuation",
+      "base_noise": "brrp",
+      "variation_type": "wrapped"
+    },
+    "390": {
+      "text": "~chirrup~",
+      "category": "punctuation",
+      "base_noise": "chirrup",
+      "variation_type": "wrapped"
+    },
+    "391": {
+      "text": "<squeak>",
+      "category": "punctuation",
+      "base_noise": "squeak",
+      "variation_type": "wrapped"
+    },
+    "392": {
+      "text": "<chirp>",
+      "category": "punctuation",
+      "base_noise": "chirp",
+      "variation_type": "wrapped"
+    },
+    "393": {
+      "text": "~brrt~",
+      "category": "punctuation",
+      "base_noise": "brrt",
+      "variation_type": "wrapped"
+    },
+    "394": {
+      "text": "~screech~",
+      "category": "punctuation",
+      "base_noise": "screech",
+      "variation_type": "wrapped"
+    },
+    "395": {
+      "text": "<mew>",
+      "category": "punctuation",
+      "base_noise": "mew",
+      "variation_type": "wrapped"
+    },
+    "396": {
+      "text": "*mrows*",
+      "category": "punctuation",
+      "base_noise": "mrow",
+      "variation_type": "wrapped"
+    },
+    "397": {
+      "text": "*hisss*",
+      "category": "punctuation",
+      "base_noise": "hisss",
+      "variation_type": "wrapped"
+    },
+    "398": {
+      "text": "*chatter*",
+      "category": "punctuation",
+      "base_noise": "chatter",
+      "variation_type": "wrapped"
+    },
+    "399": {
+      "text": "*chirrups*",
+      "category": "punctuation",
+      "base_noise": "chirrup",
+      "variation_type": "wrapped"
+    },
+    "400": {
+      "text": "(squeak)",
+      "category": "punctuation",
+      "base_noise": "squeak",
+      "variation_type": "wrapped"
+    },
+    "401": {
+      "text": "*nyans*",
+      "category": "punctuation",
+      "base_noise": "nyan",
+      "variation_type": "wrapped"
+    },
+    "402": {
+      "text": "~mrow~",
+      "category": "punctuation",
+      "base_noise": "mrow",
+      "variation_type": "wrapped"
+    },
+    "403": {
+      "text": "*mraows*",
+      "category": "punctuation",
+      "base_noise": "mraow",
+      "variation_type": "wrapped"
+    },
+    "404": {
+      "text": "*warble*",
+      "category": "punctuation",
+      "base_noise": "warble",
+      "variation_type": "wrapped"
+    },
+    "405": {
+      "text": "*warbles*",
+      "category": "punctuation",
+      "base_noise": "warble",
+      "variation_type": "wrapped"
+    },
+    "406": {
+      "text": "*mreoow*",
+      "category": "punctuation",
+      "base_noise": "mreoow",
+      "variation_type": "wrapped"
+    },
+    "407": {
+      "text": "*screechs*",
+      "category": "punctuation",
+      "base_noise": "screech",
+      "variation_type": "wrapped"
+    },
+    "408": {
+      "text": "<mao>",
+      "category": "punctuation",
+      "base_noise": "mao",
+      "variation_type": "wrapped"
+    },
+    "409": {
+      "text": "<caterwaul>",
+      "category": "punctuation",
+      "base_noise": "caterwaul",
+      "variation_type": "wrapped"
+    },
+    "410": {
+      "text": "<chatter>",
+      "category": "punctuation",
+      "base_noise": "chatter",
+      "variation_type": "wrapped"
+    },
+    "411": {
+      "text": "<nyan>",
+      "category": "punctuation",
+      "base_noise": "nyan",
+      "variation_type": "wrapped"
+    },
+    "412": {
+      "text": "~mrrrp~",
+      "category": "punctuation",
+      "base_noise": "mrrrp",
+      "variation_type": "wrapped"
+    },
+    "413": {
+      "text": "*rowls*",
+      "category": "punctuation",
+      "base_noise": "rowl",
+      "variation_type": "wrapped"
+    },
+    "414": {
+      "text": "*chirrup*",
+      "category": "punctuation",
+      "base_noise": "chirrup",
+      "variation_type": "wrapped"
+    },
+    "415": {
+      "text": "*mews*",
+      "category": "punctuation",
+      "base_noise": "mew",
+      "variation_type": "wrapped"
+    },
+    "416": {
+      "text": "*trills*",
+      "category": "punctuation",
+      "base_noise": "trill",
+      "variation_type": "wrapped"
+    },
+    "417": {
+      "text": "<mrrrp>",
+      "category": "punctuation",
+      "base_noise": "mrrrp",
+      "variation_type": "wrapped"
+    },
+    "418": {
+      "text": "<nyaa>",
+      "category": "punctuation",
+      "base_noise": "nyaa",
+      "variation_type": "wrapped"
+    },
+    "419": {
+      "text": "bRrP",
+      "category": "case",
+      "base_noise": "brrp",
+      "variation_type": "random"
+    },
+    "420": {
+      "text": "MREOOW",
+      "category": "case",
+      "base_noise": "mreoow",
+      "variation_type": "upper"
+    },
+    "421": {
+      "text": "mEW",
+      "category": "case",
+      "base_noise": "mew",
+      "variation_type": "random"
+    },
+    "422": {
+      "text": "Meow",
+      "category": "case",
+      "base_noise": "meow",
+      "variation_type": "title"
+    },
+    "423": {
+      "text": "waRblE",
+      "category": "case",
+      "base_noise": "warble",
+      "variation_type": "random"
+    },
+    "424": {
+      "text": "Mrrrp",
+      "category": "case",
+      "base_noise": "mrrrp",
+      "variation_type": "title"
+    },
+    "425": {
+      "text": "TrILL",
+      "category": "case",
+      "base_noise": "trill",
+      "variation_type": "random"
+    },
+    "426": {
+      "text": "nYa",
+      "category": "case",
+      "base_noise": "nya",
+      "variation_type": "alternating"
+    },
+    "427": {
+      "text": "bRrT",
+      "category": "case",
+      "base_noise": "brrt",
+      "variation_type": "alternating"
+    },
+    "428": {
+      "text": "PURRR",
+      "category": "case",
+      "base_noise": "purrr",
+      "variation_type": "upper"
+    },
+    "429": {
+      "text": "NyAN",
+      "category": "case",
+      "base_noise": "nyan",
+      "variation_type": "random"
+    },
+    "430": {
+      "text": "hIsSs",
+      "category": "case",
+      "base_noise": "hisss",
+      "variation_type": "alternating"
+    },
+    "431": {
+      "text": "chirP",
+      "category": "case",
+      "base_noise": "chirp",
+      "variation_type": "random"
+    },
+    "432": {
+      "text": "mEw",
+      "category": "case",
+      "base_noise": "mew",
+      "variation_type": "alternating"
+    },
+    "433": {
+      "text": "tRiLl",
+      "category": "case",
+      "base_noise": "trill",
+      "variation_type": "alternating"
+    },
+    "434": {
+      "text": "CHIRP",
+      "category": "case",
+      "base_noise": "chirp",
+      "variation_type": "upper"
+    },
+    "435": {
+      "text": "rOwL",
+      "category": "case",
+      "base_noise": "rowl",
+      "variation_type": "alternating"
+    },
+    "436": {
+      "text": "cHaTtEr",
+      "category": "case",
+      "base_noise": "chatter",
+      "variation_type": "alternating"
+    },
+    "437": {
+      "text": "Warble",
+      "category": "case",
+      "base_noise": "warble",
+      "variation_type": "title"
+    },
+    "438": {
+      "text": "Chirp",
+      "category": "case",
+      "base_noise": "chirp",
+      "variation_type": "title"
+    },
+    "439": {
+      "text": "sCrEeCh",
+      "category": "case",
+      "base_noise": "screech",
+      "variation_type": "alternating"
+    },
+    "440": {
+      "text": "Reeow",
+      "category": "case",
+      "base_noise": "reeow",
+      "variation_type": "title"
+    },
+    "441": {
+      "text": "Prrrp",
+      "category": "case",
+      "base_noise": "prrrp",
+      "variation_type": "title"
+    },
+    "442": {
+      "text": "Screech",
+      "category": "case",
+      "base_noise": "screech",
+      "variation_type": "title"
+    },
+    "443": {
+      "text": "pUrRR",
+      "category": "case",
+      "base_noise": "purrr",
+      "variation_type": "random"
+    },
+    "444": {
+      "text": "MRRRP",
+      "category": "case",
+      "base_noise": "mrrrp",
+      "variation_type": "upper"
+    },
+    "445": {
+      "text": "NYA",
+      "category": "case",
+      "base_noise": "nya",
+      "variation_type": "random"
+    },
+    "446": {
+      "text": "Mew",
+      "category": "case",
+      "base_noise": "mew",
+      "variation_type": "title"
+    },
+    "447": {
+      "text": "CHIRRUP",
+      "category": "case",
+      "base_noise": "chirrup",
+      "variation_type": "upper"
+    },
+    "448": {
+      "text": "MiAU",
+      "category": "case",
+      "base_noise": "miau",
+      "variation_type": "random"
+    },
+    "449": {
+      "text": "Brrt",
+      "category": "case",
+      "base_noise": "brrt",
+      "variation_type": "title"
+    },
+    "450": {
+      "text": "Wail",
+      "category": "case",
+      "base_noise": "wail",
+      "variation_type": "title"
+    },
+    "451": {
+      "text": "MAO",
+      "category": "case",
+      "base_noise": "mao",
+      "variation_type": "upper"
+    },
+    "452": {
+      "text": "SQUEAK",
+      "category": "case",
+      "base_noise": "squeak",
+      "variation_type": "upper"
+    },
+    "453": {
+      "text": "Mraow",
+      "category": "case",
+      "base_noise": "mraow",
+      "variation_type": "title"
+    },
+    "454": {
+      "text": "nYaA",
+      "category": "case",
+      "base_noise": "nyaa",
+      "variation_type": "alternating"
+    },
+    "455": {
+      "text": "Blep",
+      "category": "case",
+      "base_noise": "blep",
+      "variation_type": "title"
+    },
+    "456": {
+      "text": "WARBLE",
+      "category": "case",
+      "base_noise": "warble",
+      "variation_type": "upper"
+    },
+    "457": {
+      "text": "Mreoow",
+      "category": "case",
+      "base_noise": "mreoow",
+      "variation_type": "title"
+    },
+    "458": {
+      "text": "mRrP",
+      "category": "case",
+      "base_noise": "mrrp",
+      "variation_type": "alternating"
+    },
+    "459": {
+      "text": "Yowl",
+      "category": "case",
+      "base_noise": "yowl",
+      "variation_type": "title"
+    },
+    "460": {
+      "text": "MEW",
+      "category": "case",
+      "base_noise": "mew",
+      "variation_type": "upper"
+    },
+    "461": {
+      "text": "WaIL",
+      "category": "case",
+      "base_noise": "wail",
+      "variation_type": "random"
+    },
+    "462": {
+      "text": "Nyan",
+      "category": "case",
+      "base_noise": "nyan",
+      "variation_type": "title"
+    },
+    "463": {
+      "text": "screecH",
+      "category": "case",
+      "base_noise": "screech",
+      "variation_type": "random"
+    },
+    "464": {
+      "text": "cHiRrUp",
+      "category": "case",
+      "base_noise": "chirrup",
+      "variation_type": "alternating"
+    },
+    "465": {
+      "text": "cAtErWaUl",
+      "category": "case",
+      "base_noise": "caterwaul",
+      "variation_type": "alternating"
+    },
+    "466": {
+      "text": "Nya",
+      "category": "case",
+      "base_noise": "nya",
+      "variation_type": "title"
+    },
+    "467": {
+      "text": "wAiL",
+      "category": "case",
+      "base_noise": "wail",
+      "variation_type": "alternating"
+    },
+    "468": {
+      "text": "REEOW",
+      "category": "case",
+      "base_noise": "reeow",
+      "variation_type": "upper"
+    },
+    "469": {
+      "text": "Chirrup",
+      "category": "case",
+      "base_noise": "chirrup",
+      "variation_type": "title"
+    },
+    "470": {
+      "text": "MIAU",
+      "category": "case",
+      "base_noise": "miau",
+      "variation_type": "upper"
+    },
+    "471": {
+      "text": "mreoOw",
+      "category": "case",
+      "base_noise": "mreoow",
+      "variation_type": "random"
+    },
+    "472": {
+      "text": "sQuEaK",
+      "category": "case",
+      "base_noise": "squeak",
+      "variation_type": "alternating"
+    },
+    "473": {
+      "text": "bLeP",
+      "category": "case",
+      "base_noise": "blep",
+      "variation_type": "alternating"
+    },
+    "474": {
+      "text": "Hisss",
+      "category": "case",
+      "base_noise": "hisss",
+      "variation_type": "title"
+    },
+    "475": {
+      "text": "nyaN",
+      "category": "case",
+      "base_noise": "nyan",
+      "variation_type": "random"
+    },
+    "476": {
+      "text": "mRow",
+      "category": "case",
+      "base_noise": "mrow",
+      "variation_type": "random"
+    },
+    "477": {
+      "text": "NyA",
+      "category": "case",
+      "base_noise": "nya",
+      "variation_type": "random"
+    },
+    "478": {
+      "text": "TRILL",
+      "category": "case",
+      "base_noise": "trill",
+      "variation_type": "upper"
+    },
+    "479": {
+      "text": "MRRP",
+      "category": "case",
+      "base_noise": "mrrp",
+      "variation_type": "upper"
+    },
+    "480": {
+      "text": "Miau",
+      "category": "case",
+      "base_noise": "miau",
+      "variation_type": "title"
+    },
+    "481": {
+      "text": "NYaa",
+      "category": "case",
+      "base_noise": "nyaa",
+      "variation_type": "random"
+    },
+    "482": {
+      "text": "SqUeAK",
+      "category": "case",
+      "base_noise": "squeak",
+      "variation_type": "random"
+    },
+    "483": {
+      "text": "yOwL",
+      "category": "case",
+      "base_noise": "yowl",
+      "variation_type": "alternating"
+    },
+    "484": {
+      "text": "SCREECH",
+      "category": "case",
+      "base_noise": "screech",
+      "variation_type": "upper"
+    },
+    "485": {
+      "text": "mRRRp",
+      "category": "case",
+      "base_noise": "mrrrp",
+      "variation_type": "random"
+    },
+    "486": {
+      "text": "mROW",
+      "category": "case",
+      "base_noise": "mrow",
+      "variation_type": "random"
+    },
+    "487": {
+      "text": "Mrrp",
+      "category": "case",
+      "base_noise": "mrrp",
+      "variation_type": "title"
+    },
+    "488": {
+      "text": "MROW",
+      "category": "case",
+      "base_noise": "mrow",
+      "variation_type": "upper"
+    },
+    "489": {
+      "text": "HISSS",
+      "category": "case",
+      "base_noise": "hisss",
+      "variation_type": "upper"
+    },
+    "490": {
+      "text": "mIaU",
+      "category": "case",
+      "base_noise": "miau",
+      "variation_type": "alternating"
+    },
+    "491": {
+      "text": "Mao",
+      "category": "case",
+      "base_noise": "mao",
+      "variation_type": "title"
+    },
+    "492": {
+      "text": "MAo",
+      "category": "case",
+      "base_noise": "mao",
+      "variation_type": "random"
+    },
+    "493": {
+      "text": "miao",
+      "category": "international",
+      "base_noise": "miao",
+      "variation_type": "chinese"
+    },
+    "494": {
+      "text": "miiiaaaooo",
+      "category": "international",
+      "base_noise": "miao",
+      "variation_type": "chinese_elongated"
+    },
+    "495": {
+      "text": "miiaaaoo",
+      "category": "international",
+      "base_noise": "miao",
+      "variation_type": "chinese_elongated"
+    },
+    "496": {
+      "text": "miiiaauuu",
+      "category": "international",
+      "base_noise": "miau",
+      "variation_type": "german_elongated"
+    },
+    "497": {
+      "text": "miauuu",
+      "category": "international",
+      "base_noise": "miau",
+      "variation_type": "german_elongated"
+    },
+    "498": {
+      "text": "mjau",
+      "category": "international",
+      "base_noise": "mjau",
+      "variation_type": "swedish"
+    },
+    "499": {
+      "text": "mjauuu",
+      "category": "international",
+      "base_noise": "mjau",
+      "variation_type": "swedish_elongated"
+    },
+    "500": {
+      "text": "mjaaauu",
+      "category": "international",
+      "base_noise": "mjau",
+      "variation_type": "swedish_elongated"
+    },
+    "501": {
+      "text": "miyav",
+      "category": "international",
+      "base_noise": "miyav",
+      "variation_type": "turkish"
+    },
+    "502": {
+      "text": "miiiyaaav",
+      "category": "international",
+      "base_noise": "miyav",
+      "variation_type": "turkish_elongated"
+    },
+    "503": {
+      "text": "miaou",
+      "category": "international",
+      "base_noise": "miaou",
+      "variation_type": "french"
+    },
+    "504": {
+      "text": "miiaooou",
+      "category": "international",
+      "base_noise": "miaou",
+      "variation_type": "french_elongated"
+    },
+    "505": {
+      "text": "miiaoouu",
+      "category": "international",
+      "base_noise": "miaou",
+      "variation_type": "french_elongated"
+    },
+    "506": {
+      "text": "ngiyaw",
+      "category": "international",
+      "base_noise": "ngiyaw",
+      "variation_type": "filipino"
+    },
+    "507": {
+      "text": "ngiyaaw",
+      "category": "international",
+      "base_noise": "ngiyaw",
+      "variation_type": "filipino_elongated"
+    },
+    "508": {
+      "text": "myau",
+      "category": "international",
+      "base_noise": "myau",
+      "variation_type": "russian"
+    },
+    "509": {
+      "text": "myauu",
+      "category": "international",
+      "base_noise": "myau",
+      "variation_type": "russian_elongated"
+    },
+    "510": {
+      "text": "myauuu",
+      "category": "international",
+      "base_noise": "myau",
+      "variation_type": "russian_elongated"
+    },
+    "511": {
+      "text": "miauw",
+      "category": "international",
+      "base_noise": "miauw",
+      "variation_type": "dutch"
+    },
+    "512": {
+      "text": "miauuuw",
+      "category": "international",
+      "base_noise": "miauw",
+      "variation_type": "dutch_elongated"
+    },
+    "513": {
+      "text": "miauuw",
+      "category": "international",
+      "base_noise": "miauw",
+      "variation_type": "dutch_elongated"
+    },
+    "514": {
+      "text": "mjá",
+      "category": "international",
+      "base_noise": "mjá",
+      "variation_type": "icelandic"
+    },
+    "515": {
+      "text": "niau",
+      "category": "international",
+      "base_noise": "niau",
+      "variation_type": "lithuanian"
+    },
+    "516": {
+      "text": "niiaau",
+      "category": "international",
+      "base_noise": "niau",
+      "variation_type": "lithuanian_elongated"
+    },
+    "517": {
+      "text": "niiaaauu",
+      "category": "international",
+      "base_noise": "niau",
+      "variation_type": "lithuanian_elongated"
+    },
+    "518": {
+      "text": "meong",
+      "category": "international",
+      "base_noise": "meong",
+      "variation_type": "indonesian"
+    },
+    "519": {
+      "text": "meeeoong",
+      "category": "international",
+      "base_noise": "meong",
+      "variation_type": "indonesian_elongated"
+    },
+    "520": {
+      "text": "meooong",
+      "category": "international",
+      "base_noise": "meong",
+      "variation_type": "indonesian_elongated"
+    },
+    "521": {
+      "text": "meo",
+      "category": "international",
+      "base_noise": "meo",
+      "variation_type": "vietnamese"
+    },
+    "522": {
+      "text": "meooo",
+      "category": "international",
+      "base_noise": "meo",
+      "variation_type": "vietnamese_elongated"
+    },
+    "523": {
+      "text": "meeooo",
+      "category": "international",
+      "base_noise": "meo",
+      "variation_type": "vietnamese_elongated"
+    },
+    "524": {
+      "text": "yaong",
+      "category": "international",
+      "base_noise": "yaong",
+      "variation_type": "korean"
+    },
+    "525": {
+      "text": "yaooong",
+      "category": "international",
+      "base_noise": "yaong",
+      "variation_type": "korean_elongated"
+    },
+    "526": {
+      "text": "mňau",
+      "category": "international",
+      "base_noise": "mňau",
+      "variation_type": "czech"
+    },
+    "527": {
+      "text": "mňaaauu",
+      "category": "international",
+      "base_noise": "mňau",
+      "variation_type": "czech_elongated"
+    },
+    "528": {
+      "text": "nyaa... mrrrp",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "529": {
+      "text": "chatter~ nya",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "530": {
+      "text": "reeow chirrup",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "531": {
+      "text": "nya trill",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "532": {
+      "text": "nyaa~ mrrp",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "533": {
+      "text": "chirrup *purrs* blep",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "534": {
+      "text": "meow~ mreoow",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "535": {
+      "text": "purrr! miau",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "536": {
+      "text": "chirrup - mraow",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "537": {
+      "text": "caterwaul yowl",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "538": {
+      "text": "mreoow! brrt",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "539": {
+      "text": "chirp purrr",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "540": {
+      "text": "trill~ prrrp",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "541": {
+      "text": "mraow~ nyaa",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "542": {
+      "text": "trill... reeow",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "543": {
+      "text": "wail... mraow",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "544": {
+      "text": "prrrp! brrt",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "545": {
+      "text": "brrp *purrs* mrrrp",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "546": {
+      "text": "purrr~ mrrp",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "547": {
+      "text": "mrrp... miau",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "548": {
+      "text": "mrrrp~ brrp",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "549": {
+      "text": "chirp~ rowl",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "550": {
+      "text": "wail... rowl",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "551": {
+      "text": "squeak *purrs* hisss",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "552": {
+      "text": "trill - wail",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "553": {
+      "text": "warble screech",
+      "category": "compound",
+      "base_noise": "warble",
+      "variation_type": "phrase"
+    },
+    "554": {
+      "text": "reeow - miau",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "555": {
+      "text": "chirp brrp",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "556": {
+      "text": "blep yowl",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "557": {
+      "text": "mrow - squeak",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "558": {
+      "text": "chatter *purrs* reeow",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "559": {
+      "text": "yowl *purrs* rowl",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "560": {
+      "text": "nyaa - chirrup",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "561": {
+      "text": "miau... prrrp",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "562": {
+      "text": "hisss - chirp",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "563": {
+      "text": "nyan - mew",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "564": {
+      "text": "miau screech",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "565": {
+      "text": "miau - mrrp",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "566": {
+      "text": "mao - miau",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "567": {
+      "text": "mrow~ rowl",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "568": {
+      "text": "trill! screech",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "569": {
+      "text": "caterwaul~ meow",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "570": {
+      "text": "mreoow squeak",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "571": {
+      "text": "caterwaul - hisss",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "572": {
+      "text": "mew~ mrow",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "573": {
+      "text": "brrp chirp",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "574": {
+      "text": "rowl mrow",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "575": {
+      "text": "blep nyan",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "576": {
+      "text": "mraow *purrs* mao",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "577": {
+      "text": "wail... mrrp",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "578": {
+      "text": "caterwaul~ brrt",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "579": {
+      "text": "brrp~ chatter",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "580": {
+      "text": "miau~ warble",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "581": {
+      "text": "nya... mew",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "582": {
+      "text": "trill - warble",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "583": {
+      "text": "mrrp! brrt",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "584": {
+      "text": "prrrp - nyaa",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "585": {
+      "text": "nya *purrs* reeow",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "586": {
+      "text": "caterwaul purrr",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "587": {
+      "text": "wail! meow",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "588": {
+      "text": "miau... trill",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "589": {
+      "text": "rowl - mao",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "590": {
+      "text": "nya *purrs* squeak",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "591": {
+      "text": "mrrp *purrs* mreoow",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "592": {
+      "text": "blep... chatter",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "593": {
+      "text": "wail prrrp",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "594": {
+      "text": "screech~ trill",
+      "category": "compound",
+      "base_noise": "screech",
+      "variation_type": "phrase"
+    },
+    "595": {
+      "text": "mrrrp wail",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "596": {
+      "text": "purrr hisss",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "597": {
+      "text": "prrrp mrrrp",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "598": {
+      "text": "miau... mrrrp",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "599": {
+      "text": "chirp warble",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "600": {
+      "text": "purrr caterwaul",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "601": {
+      "text": "nya *purrs* miau",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "602": {
+      "text": "rowl hisss",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "603": {
+      "text": "mrrp! reeow",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "604": {
+      "text": "purrr... squeak",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "605": {
+      "text": "yowl - chirrup",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "606": {
+      "text": "mrrrp... wail",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "607": {
+      "text": "squeak *purrs* chirrup",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "608": {
+      "text": "mraow *purrs* chatter",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "609": {
+      "text": "trill *purrs* reeow",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "610": {
+      "text": "mao! mraow",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "611": {
+      "text": "mrow - rowl",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "612": {
+      "text": "chatter *purrs* caterwaul",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "613": {
+      "text": "brrt~ trill",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "614": {
+      "text": "rowl nyan",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "615": {
+      "text": "brrp... brrt",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "616": {
+      "text": "nya - screech",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "617": {
+      "text": "chirrup~ chirp",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "618": {
+      "text": "mao! mrrp",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "619": {
+      "text": "nya - nyaa",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "620": {
+      "text": "nyan *purrs* purrr",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "621": {
+      "text": "mraow... warble",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "622": {
+      "text": "mrrp~ screech",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "623": {
+      "text": "blep - mrow",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "624": {
+      "text": "mao - mao",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "625": {
+      "text": "reeow~ mrrp",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "626": {
+      "text": "purrr *purrs* mreoow",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "627": {
+      "text": "chirrup brrt",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "628": {
+      "text": "blep! miau",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "629": {
+      "text": "mew... rowl",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "630": {
+      "text": "squeak hisss",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "631": {
+      "text": "mreoow... nya",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "632": {
+      "text": "warble *purrs* mew",
+      "category": "compound",
+      "base_noise": "warble",
+      "variation_type": "phrase"
+    },
+    "633": {
+      "text": "screech - wail",
+      "category": "compound",
+      "base_noise": "screech",
+      "variation_type": "phrase"
+    },
+    "634": {
+      "text": "caterwaul - trill",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "635": {
+      "text": "hisss *purrs* nyan",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "636": {
+      "text": "warble! blep",
+      "category": "compound",
+      "base_noise": "warble",
+      "variation_type": "phrase"
+    },
+    "637": {
+      "text": "mraow blep",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "638": {
+      "text": "hisss *purrs* blep",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "639": {
+      "text": "caterwaul... prrrp",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "640": {
+      "text": "wail *purrs* nyan",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "641": {
+      "text": "chirp... mrrrp",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "642": {
+      "text": "hisss *purrs* nya",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "643": {
+      "text": "rowl! chirrup",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "644": {
+      "text": "nya - miau",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "645": {
+      "text": "brrt! brrp",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "646": {
+      "text": "mreoow - brrp",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "647": {
+      "text": "chatter~ nyan",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "648": {
+      "text": "prrrp... screech",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "649": {
+      "text": "nyan! wail",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "650": {
+      "text": "blep! hisss",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "651": {
+      "text": "chirrup mao",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "652": {
+      "text": "yowl *purrs* warble",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "653": {
+      "text": "caterwaul mrrp",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "654": {
+      "text": "mreoow - rowl",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "655": {
+      "text": "yowl~ caterwaul",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "656": {
+      "text": "mraow *purrs* mrrp",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "657": {
+      "text": "chirrup~ purrr",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "658": {
+      "text": "yowl *purrs* squeak",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "659": {
+      "text": "nyan... rowl",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "660": {
+      "text": "trill! chirrup",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "661": {
+      "text": "wail~ squeak",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "662": {
+      "text": "caterwaul... brrt",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "663": {
+      "text": "nyan *purrs* miau",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "664": {
+      "text": "caterwaul! screech",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "665": {
+      "text": "nyaa... mrrp",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "666": {
+      "text": "rowl *purrs* nyan",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "667": {
+      "text": "blep - chatter",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "668": {
+      "text": "brrt - mrow",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "669": {
+      "text": "mrow squeak",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "670": {
+      "text": "squeak trill",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "671": {
+      "text": "wail~ meow",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "672": {
+      "text": "mrrp... squeak",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "673": {
+      "text": "purrr... mew",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "674": {
+      "text": "mrrp *purrs* meow",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "675": {
+      "text": "reeow! miau",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "676": {
+      "text": "mrow... mrrrp",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "677": {
+      "text": "trill - blep",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "678": {
+      "text": "blep... nyan",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "679": {
+      "text": "nyan meow",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "680": {
+      "text": "rowl~ rowl",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "681": {
+      "text": "meow - meow",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "682": {
+      "text": "caterwaul - mreoow",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "683": {
+      "text": "mraow - meow",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "684": {
+      "text": "squeak... chirp",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "685": {
+      "text": "mao *purrs* screech",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "686": {
+      "text": "prrrp blep",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "687": {
+      "text": "reeow *purrs* mrrp",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "688": {
+      "text": "hisss - mrrrp",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "689": {
+      "text": "mreoow! squeak",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "690": {
+      "text": "mreoow~ screech",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "691": {
+      "text": "mew~ brrp",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "692": {
+      "text": "miau *purrs* yowl",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "693": {
+      "text": "chirp! purrr",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "694": {
+      "text": "trill squeak",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "695": {
+      "text": "brrt... warble",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "696": {
+      "text": "wail mrow",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "697": {
+      "text": "nya~ nya",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "698": {
+      "text": "brrt... meow",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "699": {
+      "text": "nyaa~ mew",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "700": {
+      "text": "warble... mao",
+      "category": "compound",
+      "base_noise": "warble",
+      "variation_type": "phrase"
+    },
+    "701": {
+      "text": "screech - chirrup",
+      "category": "compound",
+      "base_noise": "screech",
+      "variation_type": "phrase"
+    },
+    "702": {
+      "text": "warble - prrrp",
+      "category": "compound",
+      "base_noise": "warble",
+      "variation_type": "phrase"
+    },
+    "703": {
+      "text": "blep *purrs* mrow",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "704": {
+      "text": "hisss... chatter",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "705": {
+      "text": "chatter~ yowl",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "706": {
+      "text": "mreoow mrow",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "707": {
+      "text": "trill! blep",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "708": {
+      "text": "chatter - rowl",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "709": {
+      "text": "trill *purrs* mrow",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "710": {
+      "text": "blep! warble",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "711": {
+      "text": "meow - hisss",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "712": {
+      "text": "mrrp... wail",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "713": {
+      "text": "squeak nya",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "714": {
+      "text": "mraow - nyaa",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "715": {
+      "text": "purrr~ yowl",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "716": {
+      "text": "trill - chatter",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "717": {
+      "text": "chirrup... nya",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "718": {
+      "text": "mrrp... screech",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "719": {
+      "text": "caterwaul - mew",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "720": {
+      "text": "caterwaul brrp",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "721": {
+      "text": "prrrp *purrs* mao",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "722": {
+      "text": "squeak! mew",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "723": {
+      "text": "mrrrp - wail",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "724": {
+      "text": "mrrrp! nya",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "725": {
+      "text": "mmmmmmeow",
+      "category": "onomatopoeia",
+      "base_noise": "meow",
+      "variation_type": "consonant_extension"
+    },
+    "726": {
+      "text": "nyannnnnn",
+      "category": "onomatopoeia",
+      "base_noise": "nyan",
+      "variation_type": "consonant_extension"
+    },
+    "727": {
+      "text": "trrrrrill",
+      "category": "onomatopoeia",
+      "base_noise": "trill",
+      "variation_type": "consonant_extension"
+    },
+    "728": {
+      "text": "mrrrreoow",
+      "category": "onomatopoeia",
+      "base_noise": "mreoow",
+      "variation_type": "consonant_extension"
+    },
+    "729": {
+      "text": "mrrraow",
+      "category": "onomatopoeia",
+      "base_noise": "mraow",
+      "variation_type": "consonant_extension"
+    },
+    "730": {
+      "text": "mrrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrp",
+      "variation_type": "consonant_extension"
+    },
+    "731": {
+      "text": "mmmmmmrrrrrrrrrpppp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrrp",
+      "variation_type": "consonant_extension"
+    },
+    "732": {
+      "text": "ppppppurrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "purrr",
+      "variation_type": "consonant_extension"
+    },
+    "733": {
+      "text": "mmmmmeow",
+      "category": "onomatopoeia",
+      "base_noise": "meow",
+      "variation_type": "consonant_extension"
+    },
+    "734": {
+      "text": "sssssqueak",
+      "category": "onomatopoeia",
+      "base_noise": "squeak",
+      "variation_type": "consonant_extension"
+    },
+    "735": {
+      "text": "sssssssqueak",
+      "category": "onomatopoeia",
+      "base_noise": "squeak",
+      "variation_type": "consonant_extension"
+    },
+    "736": {
+      "text": "mrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrp",
+      "variation_type": "consonant_extension"
+    },
+    "737": {
+      "text": "nnnnnya",
+      "category": "onomatopoeia",
+      "base_noise": "nya",
+      "variation_type": "consonant_extension"
+    },
+    "738": {
+      "text": "catttttterrrrwaul",
+      "category": "onomatopoeia",
+      "base_noise": "caterwaul",
+      "variation_type": "consonant_extension"
+    },
+    "739": {
+      "text": "chirrrrrrrup",
+      "category": "onomatopoeia",
+      "base_noise": "chirrup",
+      "variation_type": "consonant_extension"
+    },
+    "740": {
+      "text": "bleppppppp",
+      "category": "onomatopoeia",
+      "base_noise": "blep",
+      "variation_type": "consonant_extension"
+    },
+    "741": {
+      "text": "caterrrrrrwaul",
+      "category": "onomatopoeia",
+      "base_noise": "caterwaul",
+      "variation_type": "consonant_extension"
+    },
+    "742": {
+      "text": "scrrrrrreech",
+      "category": "onomatopoeia",
+      "base_noise": "screech",
+      "variation_type": "consonant_extension"
+    },
+    "743": {
+      "text": "trrrrill",
+      "category": "onomatopoeia",
+      "base_noise": "trill",
+      "variation_type": "consonant_extension"
+    },
+    "744": {
+      "text": "mmmmmmrrreoow",
+      "category": "onomatopoeia",
+      "base_noise": "mreoow",
+      "variation_type": "consonant_extension"
+    },
+    "745": {
+      "text": "mmmmmmiau",
+      "category": "onomatopoeia",
+      "base_noise": "miau",
+      "variation_type": "consonant_extension"
+    },
+    "746": {
+      "text": "nnnnnnya",
+      "category": "onomatopoeia",
+      "base_noise": "nya",
+      "variation_type": "consonant_extension"
+    },
+    "747": {
+      "text": "brrrrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "brrp",
+      "variation_type": "consonant_extension"
+    },
+    "748": {
+      "text": "pppppurrrrrrrrrrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "purrr",
+      "variation_type": "consonant_extension"
+    },
+    "749": {
+      "text": "pppppppurrrrrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "purrr",
+      "variation_type": "consonant_extension"
+    },
+    "750": {
+      "text": "mmmmmmmiau",
+      "category": "onomatopoeia",
+      "base_noise": "miau",
+      "variation_type": "consonant_extension"
+    },
+    "751": {
+      "text": "chirrrrrpppppp",
+      "category": "onomatopoeia",
+      "base_noise": "chirp",
+      "variation_type": "consonant_extension"
+    },
+    "752": {
+      "text": "prrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "753": {
+      "text": "chirruppp",
+      "category": "onomatopoeia",
+      "base_noise": "chirrup",
+      "variation_type": "consonant_extension"
+    },
+    "754": {
+      "text": "pppprrrrrrrrrrrrpppppp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "755": {
+      "text": "ppppurrrrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "purrr",
+      "variation_type": "consonant_extension"
+    },
+    "756": {
+      "text": "mmmmmmrrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrrp",
+      "variation_type": "consonant_extension"
+    },
+    "757": {
+      "text": "chirrrppppppp",
+      "category": "onomatopoeia",
+      "base_noise": "chirp",
+      "variation_type": "consonant_extension"
+    },
+    "758": {
+      "text": "hisssssssss",
+      "category": "onomatopoeia",
+      "base_noise": "hisss",
+      "variation_type": "consonant_extension"
+    },
+    "759": {
+      "text": "prrrrrrrrrrrrrppppppp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "760": {
+      "text": "mmmmmew",
+      "category": "onomatopoeia",
+      "base_noise": "mew",
+      "variation_type": "consonant_extension"
+    },
+    "761": {
+      "text": "mrrrrrrpppppp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrrp",
+      "variation_type": "consonant_extension"
+    },
+    "762": {
+      "text": "mmmmmiau",
+      "category": "onomatopoeia",
+      "base_noise": "miau",
+      "variation_type": "consonant_extension"
+    },
+    "763": {
+      "text": "hissssssssssssss",
+      "category": "onomatopoeia",
+      "base_noise": "hisss",
+      "variation_type": "consonant_extension"
+    },
+    "764": {
+      "text": "mmmmeow",
+      "category": "onomatopoeia",
+      "base_noise": "meow",
+      "variation_type": "consonant_extension"
+    },
+    "765": {
+      "text": "catttttterrrwaul",
+      "category": "onomatopoeia",
+      "base_noise": "caterwaul",
+      "variation_type": "consonant_extension"
+    },
+    "766": {
+      "text": "prrrrrrrrrrrrrrpppppp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "767": {
+      "text": "pppprrrrrrrrppp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "768": {
+      "text": "mmmiau",
+      "category": "onomatopoeia",
+      "base_noise": "miau",
+      "variation_type": "consonant_extension"
+    },
+    "769": {
+      "text": "scrrrrrrreech",
+      "category": "onomatopoeia",
+      "base_noise": "screech",
+      "variation_type": "consonant_extension"
+    },
+    "770": {
+      "text": "chirpppppp",
+      "category": "onomatopoeia",
+      "base_noise": "chirp",
+      "variation_type": "consonant_extension"
+    },
+    "771": {
+      "text": "nnnnyaa",
+      "category": "onomatopoeia",
+      "base_noise": "nyaa",
+      "variation_type": "consonant_extension"
+    },
+    "772": {
+      "text": "mmmmmmmrow",
+      "category": "onomatopoeia",
+      "base_noise": "mrow",
+      "variation_type": "consonant_extension"
+    },
+    "773": {
+      "text": "chirppppppp",
+      "category": "onomatopoeia",
+      "base_noise": "chirp",
+      "variation_type": "consonant_extension"
+    },
+    "774": {
+      "text": "chatttterrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "chatter",
+      "variation_type": "consonant_extension"
+    },
+    "775": {
+      "text": "mmmmrrrreoow",
+      "category": "onomatopoeia",
+      "base_noise": "mreoow",
+      "variation_type": "consonant_extension"
+    },
+    "776": {
+      "text": "purrrrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "purrr",
+      "variation_type": "consonant_extension"
+    },
+    "777": {
+      "text": "brrrrttttt",
+      "category": "onomatopoeia",
+      "base_noise": "brrt",
+      "variation_type": "consonant_extension"
+    },
+    "778": {
+      "text": "mmmeow",
+      "category": "onomatopoeia",
+      "base_noise": "meow",
+      "variation_type": "consonant_extension"
+    },
+    "779": {
+      "text": "cattttterrrrrrrwaul",
+      "category": "onomatopoeia",
+      "base_noise": "caterwaul",
+      "variation_type": "consonant_extension"
+    },
+    "780": {
+      "text": "mmmmmmao",
+      "category": "onomatopoeia",
+      "base_noise": "mao",
+      "variation_type": "consonant_extension"
+    },
+    "781": {
+      "text": "mreoooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "782": {
+      "text": "mraaaoow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "783": {
+      "text": "waaarbleee",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "784": {
+      "text": "squuueeeak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "785": {
+      "text": "bleeeeep",
+      "category": "elongation",
+      "base_noise": "blep",
+      "variation_type": "vowel_stretch"
+    },
+    "786": {
+      "text": "warbleee",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "787": {
+      "text": "waiiiil",
+      "category": "elongation",
+      "base_noise": "wail",
+      "variation_type": "vowel_stretch"
+    },
+    "788": {
+      "text": "mreeeoooooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "789": {
+      "text": "waaaarble",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "790": {
+      "text": "reeeeeeow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "791": {
+      "text": "waaaaarble",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "792": {
+      "text": "nyaan",
+      "category": "elongation",
+      "base_noise": "nyan",
+      "variation_type": "vowel_stretch"
+    },
+    "793": {
+      "text": "mrooooow",
+      "category": "elongation",
+      "base_noise": "mrow",
+      "variation_type": "vowel_stretch"
+    },
+    "794": {
+      "text": "reeeeeeooooow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "795": {
+      "text": "yoowl",
+      "category": "elongation",
+      "base_noise": "yowl",
+      "variation_type": "vowel_stretch"
+    },
+    "796": {
+      "text": "mraaaow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "797": {
+      "text": "meew",
+      "category": "elongation",
+      "base_noise": "mew",
+      "variation_type": "vowel_stretch"
+    },
+    "798": {
+      "text": "prrrp prrrp",
+      "category": "repetition",
+      "base_noise": "prrrp",
+      "variation_type": "repeat_2x"
+    },
+    "799": {
+      "text": "chirp chirp",
+      "category": "repetition",
+      "base_noise": "chirp",
+      "variation_type": "repeat_2x"
+    },
+    "800": {
+      "text": "nyannyannyan",
+      "category": "repetition",
+      "base_noise": "nyan",
+      "variation_type": "repeat_3x"
+    },
+    "801": {
+      "text": "screech screech screech",
+      "category": "repetition",
+      "base_noise": "screech",
+      "variation_type": "repeat_3x"
+    },
+    "802": {
+      "text": "chirp chirp chirp chirp",
+      "category": "repetition",
+      "base_noise": "chirp",
+      "variation_type": "repeat_4x"
+    },
+    "803": {
+      "text": "brrp-brrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_2x"
+    },
+    "804": {
+      "text": "purrrpurrrpurrrpurrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_4x"
+    },
+    "805": {
+      "text": "purrr-purrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_2x"
+    },
+    "806": {
+      "text": "nyaanyaa",
+      "category": "repetition",
+      "base_noise": "nyaa",
+      "variation_type": "repeat_2x"
+    },
+    "807": {
+      "text": "purrr purrr purrr purrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_4x"
+    },
+    "808": {
+      "text": "nya-nya",
+      "category": "repetition",
+      "base_noise": "nya",
+      "variation_type": "repeat_2x"
+    },
+    "809": {
+      "text": "chirrupchirrup",
+      "category": "repetition",
+      "base_noise": "chirrup",
+      "variation_type": "repeat_2x"
+    },
+    "810": {
+      "text": "hissshissshisss",
+      "category": "repetition",
+      "base_noise": "hisss",
+      "variation_type": "repeat_3x"
+    },
+    "811": {
+      "text": "mrrp-mrrp",
+      "category": "repetition",
+      "base_noise": "mrrp",
+      "variation_type": "repeat_2x"
+    },
+    "812": {
+      "text": "meowmeow",
+      "category": "repetition",
+      "base_noise": "meow",
+      "variation_type": "repeat_2x"
+    },
+    "813": {
+      "text": "chirrup-chirrup",
+      "category": "repetition",
+      "base_noise": "chirrup",
+      "variation_type": "repeat_2x"
+    },
+    "814": {
+      "text": "purrr-purrr-purrr",
+      "category": "repetition",
+      "base_noise": "purrr",
+      "variation_type": "repeat_3x"
+    },
+    "815": {
+      "text": "mrow mrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_2x"
+    },
+    "816": {
+      "text": "chatter-chatter-chatter-chatter",
+      "category": "repetition",
+      "base_noise": "chatter",
+      "variation_type": "repeat_4x"
+    },
+    "817": {
+      "text": "caterwaulcaterwaul",
+      "category": "repetition",
+      "base_noise": "caterwaul",
+      "variation_type": "repeat_2x"
+    },
+    "818": {
+      "text": "brrt~ squeak",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "819": {
+      "text": "mew - yowl",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "820": {
+      "text": "mrow... mao",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "821": {
+      "text": "mrrp! purrr",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "822": {
+      "text": "mreoow! warble",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "823": {
+      "text": "blep~ screech",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "824": {
+      "text": "chirp... squeak",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "825": {
+      "text": "chirrup~ chirrup",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "826": {
+      "text": "mreoow purrr",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "827": {
+      "text": "hisss - mrrp",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "828": {
+      "text": "prrrp mrrp",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "829": {
+      "text": "nyaa~ miau",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "830": {
+      "text": "rowl *purrs* brrp",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "831": {
+      "text": "miau~ mraow",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "832": {
+      "text": "mreoow warble",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "833": {
+      "text": "mew... nyaa",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "834": {
+      "text": "mraow... squeak",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "835": {
+      "text": "chirp mrrrp",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "836": {
+      "text": "hisss! squeak",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "837": {
+      "text": "mrrp... mew",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "838": {
+      "text": "purrr~ brrp",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "839": {
+      "text": "reeow... mrow",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "840": {
+      "text": "mraow *purrs* mreoow",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "841": {
+      "text": "meow~ nya",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "842": {
+      "text": "rowl - caterwaul",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "843": {
+      "text": "purrr~ prrrp",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "844": {
+      "text": "prrrp *purrs* screech",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "845": {
+      "text": "prrrp meow",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "846": {
+      "text": "squeak *purrs* wail",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "847": {
+      "text": "mrrp~ hisss",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "848": {
+      "text": "brrp... trill",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "849": {
+      "text": "brrt - mew",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "850": {
+      "text": "yowl mreoow",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "851": {
+      "text": "meow *purrs* mew",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "852": {
+      "text": "chatter~ brrt",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "853": {
+      "text": "screech mrrp",
+      "category": "compound",
+      "base_noise": "screech",
+      "variation_type": "phrase"
+    },
+    "854": {
+      "text": "chatter! warble",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "855": {
+      "text": "prrrp~ mrow",
+      "category": "compound",
+      "base_noise": "prrrp",
+      "variation_type": "phrase"
+    },
+    "856": {
+      "text": "mrow - nyaa",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "857": {
+      "text": "mao... squeak",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "858": {
+      "text": "nya nyan",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "859": {
+      "text": "nya~ trill",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "860": {
+      "text": "nyaa *purrs* brrp",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "861": {
+      "text": "blep! nyaa",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "862": {
+      "text": "mreoow *purrs* miau",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "863": {
+      "text": "mrow - mrrrp",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "864": {
+      "text": "mrrrp... purrr",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "865": {
+      "text": "mraow~ nyan",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "866": {
+      "text": "chatter~ rowl",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "867": {
+      "text": "chattttttttttterrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "chatter",
+      "variation_type": "consonant_extension"
+    },
+    "868": {
+      "text": "sssssscrrrrrreech",
+      "category": "onomatopoeia",
+      "base_noise": "screech",
+      "variation_type": "consonant_extension"
+    },
+    "869": {
+      "text": "brrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "brrp",
+      "variation_type": "consonant_extension"
+    },
+    "870": {
+      "text": "purrrrrrrrrrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "purrr",
+      "variation_type": "consonant_extension"
+    },
+    "871": {
+      "text": "brrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "brrp",
+      "variation_type": "consonant_extension"
+    },
+    "872": {
+      "text": "brrrrrppppp",
+      "category": "onomatopoeia",
+      "base_noise": "brrp",
+      "variation_type": "consonant_extension"
+    },
+    "873": {
+      "text": "bleppppp",
+      "category": "onomatopoeia",
+      "base_noise": "blep",
+      "variation_type": "consonant_extension"
+    },
+    "874": {
+      "text": "mmmmrrrrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrp",
+      "variation_type": "consonant_extension"
+    },
+    "875": {
+      "text": "nnnnnyaa",
+      "category": "onomatopoeia",
+      "base_noise": "nyaa",
+      "variation_type": "consonant_extension"
+    },
+    "876": {
+      "text": "mrrrrow",
+      "category": "onomatopoeia",
+      "base_noise": "mrow",
+      "variation_type": "consonant_extension"
+    },
+    "877": {
+      "text": "ppppprrrrrrrrrrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "878": {
+      "text": "mmmmmmrrrrrrrrrrppppppp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrp",
+      "variation_type": "consonant_extension"
+    },
+    "879": {
+      "text": "chirrrrrrrpppp",
+      "category": "onomatopoeia",
+      "base_noise": "chirp",
+      "variation_type": "consonant_extension"
+    },
+    "880": {
+      "text": "ttttrill",
+      "category": "onomatopoeia",
+      "base_noise": "trill",
+      "variation_type": "consonant_extension"
+    },
+    "881": {
+      "text": "catttterwaul",
+      "category": "onomatopoeia",
+      "base_noise": "caterwaul",
+      "variation_type": "consonant_extension"
+    },
+    "882": {
+      "text": "mmmmmmmeow",
+      "category": "onomatopoeia",
+      "base_noise": "meow",
+      "variation_type": "consonant_extension"
+    },
+    "883": {
+      "text": "nnnnnnnya",
+      "category": "onomatopoeia",
+      "base_noise": "nya",
+      "variation_type": "consonant_extension"
+    },
+    "884": {
+      "text": "sssscrrreech",
+      "category": "onomatopoeia",
+      "base_noise": "screech",
+      "variation_type": "consonant_extension"
+    },
+    "885": {
+      "text": "chirrrrrup",
+      "category": "onomatopoeia",
+      "base_noise": "chirrup",
+      "variation_type": "consonant_extension"
+    },
+    "886": {
+      "text": "chaaaatteeeer",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "887": {
+      "text": "squuueak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "888": {
+      "text": "mreeoooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "889": {
+      "text": "cateerwauuuuul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "890": {
+      "text": "chiiiirp",
+      "category": "elongation",
+      "base_noise": "chirp",
+      "variation_type": "vowel_stretch"
+    },
+    "891": {
+      "text": "mraaaaaoooow",
+      "category": "elongation",
+      "base_noise": "mraow",
+      "variation_type": "vowel_stretch"
+    },
+    "892": {
+      "text": "nyaaaaaaaa",
+      "category": "elongation",
+      "base_noise": "nyaa",
+      "variation_type": "vowel_stretch"
+    },
+    "893": {
+      "text": "screeeeeeeech",
+      "category": "elongation",
+      "base_noise": "screech",
+      "variation_type": "vowel_stretch"
+    },
+    "894": {
+      "text": "squuuuueeeaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "895": {
+      "text": "reeeeooow",
+      "category": "elongation",
+      "base_noise": "reeow",
+      "variation_type": "vowel_stretch"
+    },
+    "896": {
+      "text": "squuuueaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "897": {
+      "text": "rowl-rowl-rowl",
+      "category": "repetition",
+      "base_noise": "rowl",
+      "variation_type": "repeat_3x"
+    },
+    "898": {
+      "text": "mreoow-mreoow-mreoow",
+      "category": "repetition",
+      "base_noise": "mreoow",
+      "variation_type": "repeat_3x"
+    },
+    "899": {
+      "text": "yowl-yowl-yowl-yowl",
+      "category": "repetition",
+      "base_noise": "yowl",
+      "variation_type": "repeat_4x"
+    },
+    "900": {
+      "text": "nyanya",
+      "category": "repetition",
+      "base_noise": "nya",
+      "variation_type": "repeat_2x"
+    },
+    "901": {
+      "text": "mraow-mraow-mraow-mraow",
+      "category": "repetition",
+      "base_noise": "mraow",
+      "variation_type": "repeat_4x"
+    },
+    "902": {
+      "text": "wail wail wail",
+      "category": "repetition",
+      "base_noise": "wail",
+      "variation_type": "repeat_3x"
+    },
+    "903": {
+      "text": "caterwaulcaterwaulcaterwaul",
+      "category": "repetition",
+      "base_noise": "caterwaul",
+      "variation_type": "repeat_3x"
+    },
+    "904": {
+      "text": "nyaa nyaa",
+      "category": "repetition",
+      "base_noise": "nyaa",
+      "variation_type": "repeat_2x"
+    },
+    "905": {
+      "text": "blep blep blep",
+      "category": "repetition",
+      "base_noise": "blep",
+      "variation_type": "repeat_3x"
+    },
+    "906": {
+      "text": "brrpbrrpbrrp",
+      "category": "repetition",
+      "base_noise": "brrp",
+      "variation_type": "repeat_3x"
+    },
+    "907": {
+      "text": "yowl yowl yowl yowl",
+      "category": "repetition",
+      "base_noise": "yowl",
+      "variation_type": "repeat_4x"
+    },
+    "908": {
+      "text": "mrowmrow",
+      "category": "repetition",
+      "base_noise": "mrow",
+      "variation_type": "repeat_2x"
+    },
+    "909": {
+      "text": "mreoow-mreoow-mreoow-mreoow",
+      "category": "repetition",
+      "base_noise": "mreoow",
+      "variation_type": "repeat_4x"
+    },
+    "910": {
+      "text": "nyan nyan",
+      "category": "repetition",
+      "base_noise": "nyan",
+      "variation_type": "repeat_2x"
+    },
+    "911": {
+      "text": "miaumiaumiau",
+      "category": "repetition",
+      "base_noise": "miau",
+      "variation_type": "repeat_3x"
+    },
+    "912": {
+      "text": "yowl prrrp",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "913": {
+      "text": "reeow! trill",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "914": {
+      "text": "rowl - brrt",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "915": {
+      "text": "mrrrp! mraow",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "916": {
+      "text": "mew! chirrup",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "917": {
+      "text": "brrt! chirrup",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "918": {
+      "text": "mreoow... brrt",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "919": {
+      "text": "chatter! brrt",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "920": {
+      "text": "wail purrr",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "921": {
+      "text": "screech - warble",
+      "category": "compound",
+      "base_noise": "screech",
+      "variation_type": "phrase"
+    },
+    "922": {
+      "text": "nya! trill",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "923": {
+      "text": "trill... mrrp",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "924": {
+      "text": "meow~ brrt",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "925": {
+      "text": "mraow~ mreoow",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "926": {
+      "text": "nya... nya",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "927": {
+      "text": "mrow... yowl",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "928": {
+      "text": "chirrup... caterwaul",
+      "category": "compound",
+      "base_noise": "chirrup",
+      "variation_type": "phrase"
+    },
+    "929": {
+      "text": "purrr - trill",
+      "category": "compound",
+      "base_noise": "purrr",
+      "variation_type": "phrase"
+    },
+    "930": {
+      "text": "brrt~ screech",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "931": {
+      "text": "blep! trill",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "932": {
+      "text": "reeow *purrs* mraow",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "933": {
+      "text": "squeak - trill",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "934": {
+      "text": "nyaa mraow",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "935": {
+      "text": "nyan... mrrp",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "936": {
+      "text": "mreoow - caterwaul",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "937": {
+      "text": "wail *purrs* blep",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "938": {
+      "text": "trill! chatter",
+      "category": "compound",
+      "base_noise": "trill",
+      "variation_type": "phrase"
+    },
+    "939": {
+      "text": "brrt *purrs* mew",
+      "category": "compound",
+      "base_noise": "brrt",
+      "variation_type": "phrase"
+    },
+    "940": {
+      "text": "brrp... purrr",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "941": {
+      "text": "warble~ mraow",
+      "category": "compound",
+      "base_noise": "warble",
+      "variation_type": "phrase"
+    },
+    "942": {
+      "text": "screech! chatter",
+      "category": "compound",
+      "base_noise": "screech",
+      "variation_type": "phrase"
+    },
+    "943": {
+      "text": "brrp - mreoow",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "944": {
+      "text": "mraow miau",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "945": {
+      "text": "nyan... mrow",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "946": {
+      "text": "yowl - yowl",
+      "category": "compound",
+      "base_noise": "yowl",
+      "variation_type": "phrase"
+    },
+    "947": {
+      "text": "mew *purrs* nyan",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "948": {
+      "text": "reeow... prrrp",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "949": {
+      "text": "nya! reeow",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "950": {
+      "text": "mao *purrs* mrow",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "951": {
+      "text": "mrrp! hisss",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "952": {
+      "text": "mao~ yowl",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "953": {
+      "text": "mrrp... chirrup",
+      "category": "compound",
+      "base_noise": "mrrp",
+      "variation_type": "phrase"
+    },
+    "954": {
+      "text": "nyaa wail",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "955": {
+      "text": "nyan... chirrup",
+      "category": "compound",
+      "base_noise": "nyan",
+      "variation_type": "phrase"
+    },
+    "956": {
+      "text": "nyaa... chirrup",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "957": {
+      "text": "mrow~ meow",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "958": {
+      "text": "mreoow *purrs* hisss",
+      "category": "compound",
+      "base_noise": "mreoow",
+      "variation_type": "phrase"
+    },
+    "959": {
+      "text": "hisssssssssss",
+      "category": "onomatopoeia",
+      "base_noise": "hisss",
+      "variation_type": "consonant_extension"
+    },
+    "960": {
+      "text": "chirrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "chirp",
+      "variation_type": "consonant_extension"
+    },
+    "961": {
+      "text": "cattttttterwaul",
+      "category": "onomatopoeia",
+      "base_noise": "caterwaul",
+      "variation_type": "consonant_extension"
+    },
+    "962": {
+      "text": "chattttterrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "chatter",
+      "variation_type": "consonant_extension"
+    },
+    "963": {
+      "text": "hissssssss",
+      "category": "onomatopoeia",
+      "base_noise": "hisss",
+      "variation_type": "consonant_extension"
+    },
+    "964": {
+      "text": "ppppurrrrr",
+      "category": "onomatopoeia",
+      "base_noise": "purrr",
+      "variation_type": "consonant_extension"
+    },
+    "965": {
+      "text": "brrrrppppppp",
+      "category": "onomatopoeia",
+      "base_noise": "brrp",
+      "variation_type": "consonant_extension"
+    },
+    "966": {
+      "text": "mrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrrp",
+      "variation_type": "consonant_extension"
+    },
+    "967": {
+      "text": "chirppp",
+      "category": "onomatopoeia",
+      "base_noise": "chirp",
+      "variation_type": "consonant_extension"
+    },
+    "968": {
+      "text": "mmmmmmrrrrrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "mrrrp",
+      "variation_type": "consonant_extension"
+    },
+    "969": {
+      "text": "prrrrrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "970": {
+      "text": "caaaateeeeerwaaaaul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "971": {
+      "text": "cateerwaul",
+      "category": "elongation",
+      "base_noise": "caterwaul",
+      "variation_type": "vowel_stretch"
+    },
+    "972": {
+      "text": "chaaaatteeer",
+      "category": "elongation",
+      "base_noise": "chatter",
+      "variation_type": "vowel_stretch"
+    },
+    "973": {
+      "text": "mreeeeeoooow",
+      "category": "elongation",
+      "base_noise": "mreoow",
+      "variation_type": "vowel_stretch"
+    },
+    "974": {
+      "text": "maaaaaooooo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "975": {
+      "text": "chirruuup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "976": {
+      "text": "maaaooooo",
+      "category": "elongation",
+      "base_noise": "mao",
+      "variation_type": "vowel_stretch"
+    },
+    "977": {
+      "text": "squueaaaaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "978": {
+      "text": "waaarble",
+      "category": "elongation",
+      "base_noise": "warble",
+      "variation_type": "vowel_stretch"
+    },
+    "979": {
+      "text": "chiirruuuuup",
+      "category": "elongation",
+      "base_noise": "chirrup",
+      "variation_type": "vowel_stretch"
+    },
+    "980": {
+      "text": "miiiiiauuuu",
+      "category": "elongation",
+      "base_noise": "miau",
+      "variation_type": "vowel_stretch"
+    },
+    "981": {
+      "text": "squeeeeaaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "982": {
+      "text": "squeaaaaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "983": {
+      "text": "squuuueeeeaak",
+      "category": "elongation",
+      "base_noise": "squeak",
+      "variation_type": "vowel_stretch"
+    },
+    "984": {
+      "text": "blepblepblepblep",
+      "category": "repetition",
+      "base_noise": "blep",
+      "variation_type": "repeat_4x"
+    },
+    "985": {
+      "text": "prrrp-prrrp-prrrp",
+      "category": "repetition",
+      "base_noise": "prrrp",
+      "variation_type": "repeat_3x"
+    },
+    "986": {
+      "text": "rowlrowlrowl",
+      "category": "repetition",
+      "base_noise": "rowl",
+      "variation_type": "repeat_3x"
+    },
+    "987": {
+      "text": "caterwaul caterwaul",
+      "category": "repetition",
+      "base_noise": "caterwaul",
+      "variation_type": "repeat_2x"
+    },
+    "988": {
+      "text": "nyanyanyanya",
+      "category": "repetition",
+      "base_noise": "nya",
+      "variation_type": "repeat_4x"
+    },
+    "989": {
+      "text": "mrrrpmrrrpmrrrp",
+      "category": "repetition",
+      "base_noise": "mrrrp",
+      "variation_type": "repeat_3x"
+    },
+    "990": {
+      "text": "chatter-chatter-chatter",
+      "category": "repetition",
+      "base_noise": "chatter",
+      "variation_type": "repeat_3x"
+    },
+    "991": {
+      "text": "chirpchirpchirpchirp",
+      "category": "repetition",
+      "base_noise": "chirp",
+      "variation_type": "repeat_4x"
+    },
+    "992": {
+      "text": "warblewarblewarble",
+      "category": "repetition",
+      "base_noise": "warble",
+      "variation_type": "repeat_3x"
+    },
+    "993": {
+      "text": "nya nya",
+      "category": "repetition",
+      "base_noise": "nya",
+      "variation_type": "repeat_2x"
+    },
+    "994": {
+      "text": "mrrrpmrrrpmrrrpmrrrp",
+      "category": "repetition",
+      "base_noise": "mrrrp",
+      "variation_type": "repeat_4x"
+    },
+    "995": {
+      "text": "blep-blep-blep",
+      "category": "repetition",
+      "base_noise": "blep",
+      "variation_type": "repeat_3x"
+    },
+    "996": {
+      "text": "rowl rowl",
+      "category": "repetition",
+      "base_noise": "rowl",
+      "variation_type": "repeat_2x"
+    },
+    "997": {
+      "text": "caterwaul *purrs* mreoow",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "998": {
+      "text": "mrrrp~ warble",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "999": {
+      "text": "squeak... purrr",
+      "category": "compound",
+      "base_noise": "squeak",
+      "variation_type": "phrase"
+    },
+    "1000": {
+      "text": "chirp... chirp",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "1001": {
+      "text": "brrp - wail",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "1002": {
+      "text": "hisss... wail",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "1003": {
+      "text": "hisss~ mraow",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "1004": {
+      "text": "nyaa trill",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "1005": {
+      "text": "nyaa... nyaa",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "1006": {
+      "text": "reeow~ prrrp",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "1007": {
+      "text": "mrow! mao",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "1008": {
+      "text": "rowl *purrs* mreoow",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "1009": {
+      "text": "nyaa! yowl",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "1010": {
+      "text": "meow~ chirrup",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "1011": {
+      "text": "chirp *purrs* blep",
+      "category": "compound",
+      "base_noise": "chirp",
+      "variation_type": "phrase"
+    },
+    "1012": {
+      "text": "mrow! mrrp",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "1013": {
+      "text": "mrrrp... mrow",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "1014": {
+      "text": "mrrrp... squeak",
+      "category": "compound",
+      "base_noise": "mrrrp",
+      "variation_type": "phrase"
+    },
+    "1015": {
+      "text": "mraow - nyan",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "1016": {
+      "text": "rowl brrp",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "1017": {
+      "text": "screech! chirp",
+      "category": "compound",
+      "base_noise": "screech",
+      "variation_type": "phrase"
+    },
+    "1018": {
+      "text": "reeow *purrs* purrr",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "1019": {
+      "text": "reeow - mew",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "1020": {
+      "text": "nyaa - mao",
+      "category": "compound",
+      "base_noise": "nyaa",
+      "variation_type": "phrase"
+    },
+    "1021": {
+      "text": "rowl nya",
+      "category": "compound",
+      "base_noise": "rowl",
+      "variation_type": "phrase"
+    },
+    "1022": {
+      "text": "brrp *purrs* purrr",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "1023": {
+      "text": "brrp *purrs* mraow",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "1024": {
+      "text": "wail - mrrrp",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "1025": {
+      "text": "meow... prrrp",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "1026": {
+      "text": "brrp *purrs* miau",
+      "category": "compound",
+      "base_noise": "brrp",
+      "variation_type": "phrase"
+    },
+    "1027": {
+      "text": "chatter - brrt",
+      "category": "compound",
+      "base_noise": "chatter",
+      "variation_type": "phrase"
+    },
+    "1028": {
+      "text": "blep *purrs* mrrrp",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "1029": {
+      "text": "mrow! trill",
+      "category": "compound",
+      "base_noise": "mrow",
+      "variation_type": "phrase"
+    },
+    "1030": {
+      "text": "nya blep",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "1031": {
+      "text": "nya - mreoow",
+      "category": "compound",
+      "base_noise": "nya",
+      "variation_type": "phrase"
+    },
+    "1032": {
+      "text": "caterwaul mraow",
+      "category": "compound",
+      "base_noise": "caterwaul",
+      "variation_type": "phrase"
+    },
+    "1033": {
+      "text": "blep! reeow",
+      "category": "compound",
+      "base_noise": "blep",
+      "variation_type": "phrase"
+    },
+    "1034": {
+      "text": "reeow - screech",
+      "category": "compound",
+      "base_noise": "reeow",
+      "variation_type": "phrase"
+    },
+    "1035": {
+      "text": "miau nyan",
+      "category": "compound",
+      "base_noise": "miau",
+      "variation_type": "phrase"
+    },
+    "1036": {
+      "text": "mraow... chatter",
+      "category": "compound",
+      "base_noise": "mraow",
+      "variation_type": "phrase"
+    },
+    "1037": {
+      "text": "hisss - chirrup",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "1038": {
+      "text": "mew *purrs* prrrp",
+      "category": "compound",
+      "base_noise": "mew",
+      "variation_type": "phrase"
+    },
+    "1039": {
+      "text": "wail - rowl",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "1040": {
+      "text": "meow brrt",
+      "category": "compound",
+      "base_noise": "meow",
+      "variation_type": "phrase"
+    },
+    "1041": {
+      "text": "hisss... trill",
+      "category": "compound",
+      "base_noise": "hisss",
+      "variation_type": "phrase"
+    },
+    "1042": {
+      "text": "wail... hisss",
+      "category": "compound",
+      "base_noise": "wail",
+      "variation_type": "phrase"
+    },
+    "1043": {
+      "text": "mao squeak",
+      "category": "compound",
+      "base_noise": "mao",
+      "variation_type": "phrase"
+    },
+    "1044": {
+      "text": "hisssssssssssss",
+      "category": "onomatopoeia",
+      "base_noise": "hisss",
+      "variation_type": "consonant_extension"
+    },
+    "1045": {
+      "text": "mmmmmmmrrrrreoow",
+      "category": "onomatopoeia",
+      "base_noise": "mreoow",
+      "variation_type": "consonant_extension"
+    },
+    "1046": {
+      "text": "ppppppprrrrrrrp",
+      "category": "onomatopoeia",
+      "base_noise": "prrrp",
+      "variation_type": "consonant_extension"
+    },
+    "1047": {
+      "text": "ssssssscreech",
+      "category": "onomatopoeia",
+      "base_noise": "screech",
+      "variation_type": "consonant_extension"
+    },
+    "1048": {
+      "text": "nnnya",
+      "category": "onomatopoeia",
+      "base_noise": "nya",
+      "variation_type": "consonant_extension"
+    },
+    "1049": {
+      "text": "caterrrrrrrwaul",
+      "category": "onomatopoeia",
+      "base_noise": "caterwaul",
+      "variation_type": "consonant_extension"
+    }
+  },
+  "text_to_index": {
+    "meow": 0,
+    "mrow": 1,
+    "mew": 2,
+    "prrrp": 3,
+    "mrrp": 4,
+    "nyaa": 5,
+    "hisss": 6,
+    "purrr": 7,
+    "mreoow": 8,
+    "mraow": 9,
+    "chirrup": 10,
+    "brrp": 11,
+    "nya": 12,
+    "mao": 13,
+    "miau": 14,
+    "nyan": 15,
+    "reeow": 16,
+    "rowl": 17,
+    "yowl": 18,
+    "mrrrp": 19,
+    "brrt": 20,
+    "trill": 21,
+    "chirp": 22,
+    "caterwaul": 23,
+    "wail": 24,
+    "screech": 25,
+    "squeak": 26,
+    "warble": 27,
+    "chatter": 28,
+    "blep": 29,
+    "meeeow": 30,
+    "cateerwaaul": 31,
+    "meeeeeow": 32,
+    "warbleeeee": 33,
+    "mroow": 34,
+    "chaaatteer": 35,
+    "mraaaooooow": 36,
+    "mreeeeoow": 37,
+    "bleep": 38,
+    "nyaaaa": 39,
+    "bleeep": 40,
+    "waaaiiiil": 41,
+    "hiiiisss": 42,
+    "hiiiiisss": 43,
+    "chaaaaatter": 44,
+    "puuuurrr": 45,
+    "caaaaaterwaaauul": 46,
+    "nyaaaaaaaaaa": 47,
+    "nyaaaaa": 48,
+    "reeeoow": 49,
+    "triiiill": 50,
+    "waail": 51,
+    "nyaaaaaaa": 52,
+    "reeeeeeeow": 53,
+    "waiil": 54,
+    "chiirruuuup": 55,
+    "chaatter": 56,
+    "nyaaan": 57,
+    "triiill": 58,
+    "mreeeeeoooooooow": 59,
+    "triiiiill": 60,
+    "yooowl": 61,
+    "meooow": 62,
+    "meeeew": 63,
+    "caaaaaterwaaaaaul": 64,
+    "maaoo": 65,
+    "mroooow": 66,
+    "screeeech": 67,
+    "rooooowl": 68,
+    "screeech": 69,
+    "roowl": 70,
+    "nyaaaaaa": 71,
+    "nyaaa": 72,
+    "screeeeeeeeech": 73,
+    "caterwaaaul": 74,
+    "reeooow": 75,
+    "chaatteeeeer": 76,
+    "mreoooooow": 77,
+    "meeow": 78,
+    "hiiisss": 79,
+    "mraoooow": 80,
+    "screeeeeech": 81,
+    "mreooooow": 82,
+    "mraaaaow": 83,
+    "warblee": 84,
+    "waiiil": 85,
+    "caaaaateerwauuul": 86,
+    "yooooowl": 87,
+    "chaatteeer": 88,
+    "waaaaaiiil": 89,
+    "caaaaateeerwauul": 90,
+    "bleeeep": 91,
+    "squuueaaaaak": 92,
+    "waiiiiil": 93,
+    "yoooowl": 94,
+    "maooooo": 95,
+    "reeeeow": 96,
+    "chiiirp": 97,
+    "maoooo": 98,
+    "reeeeeeooow": 99,
+    "roooowl": 100,
+    "miiiaaauuuu": 101,
+    "reeeeeooow": 102,
+    "puurrr": 103,
+    "miiiaaaaauuu": 104,
+    "waaiiil": 105,
+    "miaaaauuuuu": 106,
+    "squuuuueeeeeaaaaak": 107,
+    "miauuuuu": 108,
+    "meeew": 109,
+    "mreooow": 110,
+    "maaaaaooo": 111,
+    "squueeeeeaaaak": 112,
+    "mraaaaaooow": 113,
+    "maaaaao": 114,
+    "squuueeaak": 115,
+    "waarble": 116,
+    "waaaaiiiiil": 117,
+    "mreeeeeooooow": 118,
+    "waaaail": 119,
+    "chiirp": 120,
+    "maaoooo": 121,
+    "chaaatteeeer": 122,
+    "chiirrup": 123,
+    "miaaaaau": 124,
+    "reeeooow": 125,
+    "chiiiiirp": 126,
+    "miiauuu": 127,
+    "mraaaaoooow": 128,
+    "maaaao": 129,
+    "caaaterwaaaauuuul": 130,
+    "mrooow": 131,
+    "waarbleeee": 132,
+    "nyaaaan": 133,
+    "nyaaaaaaaaa": 134,
+    "squeeak": 135,
+    "screeeeech": 136,
+    "waaaiiiiil": 137,
+    "miiiiaaaaau": 138,
+    "mraaaaaow": 139,
+    "puuurrr": 140,
+    "miaaaaauuuuu": 141,
+    "miauuuu": 142,
+    "waaaaiiil": 143,
+    "nyaaaaan": 144,
+    "meeeeew": 145,
+    "triill": 146,
+    "waaiiiiil": 147,
+    "miiiau": 148,
+    "maoo": 149,
+    "miiiaaaauuuu": 150,
+    "chiiiirruuuup": 151,
+    "cateeeeerwaaaaauuuul": 152,
+    "chiiiiirruuuup": 153,
+    "puuuuurrr": 154,
+    "reeeeeeeeeow": 155,
+    "maaao": 156,
+    "chiiiiirruup": 157,
+    "cateerwaaaauul": 158,
+    "chiiiirrup": 159,
+    "maooo": 160,
+    "blep blep blep blep": 161,
+    "purrr purrr purrr": 162,
+    "miau miau miau": 163,
+    "chatter chatter chatter": 164,
+    "trill trill trill trill": 165,
+    "mew mew mew": 166,
+    "yowl-yowl-yowl": 167,
+    "chirp-chirp-chirp": 168,
+    "warble warble warble": 169,
+    "nya nya nya": 170,
+    "purrrpurrrpurrr": 171,
+    "brrp brrp brrp brrp": 172,
+    "chirp chirp chirp": 173,
+    "squeak-squeak-squeak-squeak": 174,
+    "mreoowmreoow": 175,
+    "warble warble warble warble": 176,
+    "blep-blep-blep-blep": 177,
+    "squeak squeak squeak": 178,
+    "mrrrp mrrrp mrrrp": 179,
+    "brrtbrrt": 180,
+    "mreoow mreoow mreoow mreoow": 181,
+    "brrt brrt": 182,
+    "mraow mraow mraow": 183,
+    "yowl yowl yowl": 184,
+    "caterwaul caterwaul caterwaul": 185,
+    "hissshisss": 186,
+    "chatterchatterchatter": 187,
+    "reeow reeow reeow": 188,
+    "mreoow mreoow mreoow": 189,
+    "miau miau": 190,
+    "wail-wail": 191,
+    "prrrp prrrp prrrp prrrp": 192,
+    "nyannyan": 193,
+    "chatter chatter chatter chatter": 194,
+    "brrt-brrt": 195,
+    "brrt brrt brrt": 196,
+    "mrrp mrrp": 197,
+    "prrrpprrrp": 198,
+    "mrrp-mrrp-mrrp": 199,
+    "brrpbrrpbrrpbrrp": 200,
+    "mao mao mao mao": 201,
+    "squeaksqueaksqueak": 202,
+    "mao mao mao": 203,
+    "trilltrilltrill": 204,
+    "mrow mrow mrow": 205,
+    "hisss-hisss": 206,
+    "mew mew mew mew": 207,
+    "brrtbrrtbrrtbrrt": 208,
+    "meow meow": 209,
+    "purrrpurrr": 210,
+    "hisss hisss hisss hisss": 211,
+    "squeak squeak": 212,
+    "wailwail": 213,
+    "meow meow meow": 214,
+    "mrrp mrrp mrrp mrrp": 215,
+    "screech screech": 216,
+    "trill trill": 217,
+    "nyaa nyaa nyaa": 218,
+    "mrrp-mrrp-mrrp-mrrp": 219,
+    "reeow reeow": 220,
+    "nyan nyan nyan": 221,
+    "reeow reeow reeow reeow": 222,
+    "miau miau miau miau": 223,
+    "mrrrpmrrrp": 224,
+    "mrow-mrow-mrow": 225,
+    "nyan-nyan-nyan-nyan": 226,
+    "mew mew": 227,
+    "mrrrp mrrrp": 228,
+    "mrrpmrrpmrrp": 229,
+    "mrrrp mrrrp mrrrp mrrrp": 230,
+    "miaumiaumiaumiau": 231,
+    "mao mao": 232,
+    "warblewarblewarblewarble": 233,
+    "caterwaul-caterwaul": 234,
+    "miau-miau": 235,
+    "chirrup-chirrup-chirrup": 236,
+    "chirrup chirrup chirrup": 237,
+    "trill trill trill": 238,
+    "caterwaul caterwaul caterwaul caterwaul": 239,
+    "screechscreech": 240,
+    "mrowmrowmrowmrow": 241,
+    "rowl rowl rowl": 242,
+    "mao-mao-mao": 243,
+    "mraow mraow mraow mraow": 244,
+    "brrpbrrp": 245,
+    "warble warble": 246,
+    "prrrpprrrpprrrp": 247,
+    "wailwailwailwail": 248,
+    "trilltrilltrilltrill": 249,
+    "meow meow meow meow": 250,
+    "brrp brrp": 251,
+    "warblewarble": 252,
+    "mewmewmewmew": 253,
+    "hisss-hisss-hisss": 254,
+    "brrp brrp brrp": 255,
+    "nyaa nyaa nyaa nyaa": 256,
+    "miau-miau-miau-miau": 257,
+    "wail wail wail wail": 258,
+    "mraowmraowmraowmraow": 259,
+    "nyan nyan nyan nyan": 260,
+    "mrow-mrow": 261,
+    "hisss hisss hisss": 262,
+    "wail wail": 263,
+    "meow-meow-meow": 264,
+    "nyaa-nyaa": 265,
+    "rowl rowl rowl rowl": 266,
+    "mao-mao": 267,
+    "blep blep": 268,
+    "yowlyowlyowl": 269,
+    "nya-nya-nya-nya": 270,
+    "mraow-mraow": 271,
+    "screech-screech-screech-screech": 272,
+    "squeak squeak squeak squeak": 273,
+    "nya nya nya nya": 274,
+    "purrr purrr": 275,
+    "mreoow mreoow": 276,
+    "nyaa-nyaa-nyaa-nyaa": 277,
+    "chirrup chirrup chirrup chirrup": 278,
+    "mrrp mrrp mrrp": 279,
+    "screechscreechscreech": 280,
+    "mrowmrowmrow": 281,
+    "mew-mew-mew": 282,
+    "mrrrp-mrrrp-mrrrp-mrrrp": 283,
+    "screech screech screech screech": 284,
+    "chirrup-chirrup-chirrup-chirrup": 285,
+    "chirpchirp": 286,
+    "purrr-purrr-purrr-purrr": 287,
+    "brrp-brrp-brrp": 288,
+    "maomaomao": 289,
+    "mrow mrow mrow mrow": 290,
+    "mew??": 291,
+    "prrrp~~~": 292,
+    "trill?!": 293,
+    "mraow!!": 294,
+    "caterwaul...": 295,
+    "chirrup!": 296,
+    "yowl...": 297,
+    "blep??": 298,
+    "mraow?!": 299,
+    "mrrp!": 300,
+    "mraow~~~": 301,
+    "nya??": 302,
+    "squeak...": 303,
+    "trill~~~": 304,
+    "mew?!": 305,
+    "reeow??": 306,
+    "meow??": 307,
+    "mraow...": 308,
+    "hisss??": 309,
+    "wail!?": 310,
+    "hisss~": 311,
+    "mrrp...": 312,
+    "mew!!": 313,
+    "warble!": 314,
+    "reeow~~~": 315,
+    "squeak~~~": 316,
+    "mrow??": 317,
+    "chatter...": 318,
+    "mrrrp?!": 319,
+    "nyaa...": 320,
+    "caterwaul!?": 321,
+    "mrow?!": 322,
+    "brrp~": 323,
+    "miau!!": 324,
+    "purrr~~~": 325,
+    "purrr!!": 326,
+    "screech!?": 327,
+    "chatter~": 328,
+    "brrp!?": 329,
+    "wail?!": 330,
+    "mao...": 331,
+    "squeak~": 332,
+    "screech...": 333,
+    "warble!!": 334,
+    "mrow!?": 335,
+    "warble??": 336,
+    "rowl!": 337,
+    "chirp~~~": 338,
+    "mraow!": 339,
+    "wail...": 340,
+    "mreoow!?": 341,
+    "chatter~~~": 342,
+    "mrrp?!": 343,
+    "mew~": 344,
+    "squeak!?": 345,
+    "chatter??": 346,
+    "blep?": 347,
+    "mao?": 348,
+    "nya~~~": 349,
+    "nya!": 350,
+    "blep!": 351,
+    "squeak??": 352,
+    "mrrp?": 353,
+    "mraow!?": 354,
+    "chirp...": 355,
+    "(miau)": 356,
+    "*meow*": 357,
+    "*meows*": 358,
+    "~hisss~": 359,
+    "(rowl)": 360,
+    "<reeow>": 361,
+    "*prrrps*": 362,
+    "*purrrs*": 363,
+    "*prrrp*": 364,
+    "<purrr>": 365,
+    "(brrt)": 366,
+    "*miau*": 367,
+    "<prrrp>": 368,
+    "(mrrrp)": 369,
+    "(meow)": 370,
+    "~yowl~": 371,
+    "~chirp~": 372,
+    "<mraow>": 373,
+    "~brrp~": 374,
+    "<yowl>": 375,
+    "*nyaa*": 376,
+    "*reeows*": 377,
+    "(mew)": 378,
+    "(screech)": 379,
+    "*rowl*": 380,
+    "<nya>": 381,
+    "<mrow>": 382,
+    "*brrps*": 383,
+    "*caterwaul*": 384,
+    "*brrp*": 385,
+    "(wail)": 386,
+    "*caterwauls*": 387,
+    "*mrrp*": 388,
+    "(brrp)": 389,
+    "~chirrup~": 390,
+    "<squeak>": 391,
+    "<chirp>": 392,
+    "~brrt~": 393,
+    "~screech~": 394,
+    "<mew>": 395,
+    "*mrows*": 396,
+    "*hisss*": 397,
+    "*chatter*": 398,
+    "*chirrups*": 399,
+    "(squeak)": 400,
+    "*nyans*": 401,
+    "~mrow~": 402,
+    "*mraows*": 403,
+    "*warble*": 404,
+    "*warbles*": 405,
+    "*mreoow*": 406,
+    "*screechs*": 407,
+    "<mao>": 408,
+    "<caterwaul>": 409,
+    "<chatter>": 410,
+    "<nyan>": 411,
+    "~mrrrp~": 412,
+    "*rowls*": 413,
+    "*chirrup*": 414,
+    "*mews*": 415,
+    "*trills*": 416,
+    "<mrrrp>": 417,
+    "<nyaa>": 418,
+    "bRrP": 419,
+    "MREOOW": 420,
+    "mEW": 421,
+    "Meow": 422,
+    "waRblE": 423,
+    "Mrrrp": 424,
+    "TrILL": 425,
+    "nYa": 426,
+    "bRrT": 427,
+    "PURRR": 428,
+    "NyAN": 429,
+    "hIsSs": 430,
+    "chirP": 431,
+    "mEw": 432,
+    "tRiLl": 433,
+    "CHIRP": 434,
+    "rOwL": 435,
+    "cHaTtEr": 436,
+    "Warble": 437,
+    "Chirp": 438,
+    "sCrEeCh": 439,
+    "Reeow": 440,
+    "Prrrp": 441,
+    "Screech": 442,
+    "pUrRR": 443,
+    "MRRRP": 444,
+    "NYA": 445,
+    "Mew": 446,
+    "CHIRRUP": 447,
+    "MiAU": 448,
+    "Brrt": 449,
+    "Wail": 450,
+    "MAO": 451,
+    "SQUEAK": 452,
+    "Mraow": 453,
+    "nYaA": 454,
+    "Blep": 455,
+    "WARBLE": 456,
+    "Mreoow": 457,
+    "mRrP": 458,
+    "Yowl": 459,
+    "MEW": 460,
+    "WaIL": 461,
+    "Nyan": 462,
+    "screecH": 463,
+    "cHiRrUp": 464,
+    "cAtErWaUl": 465,
+    "Nya": 466,
+    "wAiL": 467,
+    "REEOW": 468,
+    "Chirrup": 469,
+    "MIAU": 470,
+    "mreoOw": 471,
+    "sQuEaK": 472,
+    "bLeP": 473,
+    "Hisss": 474,
+    "nyaN": 475,
+    "mRow": 476,
+    "NyA": 477,
+    "TRILL": 478,
+    "MRRP": 479,
+    "Miau": 480,
+    "NYaa": 481,
+    "SqUeAK": 482,
+    "yOwL": 483,
+    "SCREECH": 484,
+    "mRRRp": 485,
+    "mROW": 486,
+    "Mrrp": 487,
+    "MROW": 488,
+    "HISSS": 489,
+    "mIaU": 490,
+    "Mao": 491,
+    "MAo": 492,
+    "miao": 493,
+    "miiiaaaooo": 494,
+    "miiaaaoo": 495,
+    "miiiaauuu": 496,
+    "miauuu": 497,
+    "mjau": 498,
+    "mjauuu": 499,
+    "mjaaauu": 500,
+    "miyav": 501,
+    "miiiyaaav": 502,
+    "miaou": 503,
+    "miiaooou": 504,
+    "miiaoouu": 505,
+    "ngiyaw": 506,
+    "ngiyaaw": 507,
+    "myau": 508,
+    "myauu": 509,
+    "myauuu": 510,
+    "miauw": 511,
+    "miauuuw": 512,
+    "miauuw": 513,
+    "mjá": 514,
+    "niau": 515,
+    "niiaau": 516,
+    "niiaaauu": 517,
+    "meong": 518,
+    "meeeoong": 519,
+    "meooong": 520,
+    "meo": 521,
+    "meooo": 522,
+    "meeooo": 523,
+    "yaong": 524,
+    "yaooong": 525,
+    "mňau": 526,
+    "mňaaauu": 527,
+    "nyaa... mrrrp": 528,
+    "chatter~ nya": 529,
+    "reeow chirrup": 530,
+    "nya trill": 531,
+    "nyaa~ mrrp": 532,
+    "chirrup *purrs* blep": 533,
+    "meow~ mreoow": 534,
+    "purrr! miau": 535,
+    "chirrup - mraow": 536,
+    "caterwaul yowl": 537,
+    "mreoow! brrt": 538,
+    "chirp purrr": 539,
+    "trill~ prrrp": 540,
+    "mraow~ nyaa": 541,
+    "trill... reeow": 542,
+    "wail... mraow": 543,
+    "prrrp! brrt": 544,
+    "brrp *purrs* mrrrp": 545,
+    "purrr~ mrrp": 546,
+    "mrrp... miau": 547,
+    "mrrrp~ brrp": 548,
+    "chirp~ rowl": 549,
+    "wail... rowl": 550,
+    "squeak *purrs* hisss": 551,
+    "trill - wail": 552,
+    "warble screech": 553,
+    "reeow - miau": 554,
+    "chirp brrp": 555,
+    "blep yowl": 556,
+    "mrow - squeak": 557,
+    "chatter *purrs* reeow": 558,
+    "yowl *purrs* rowl": 559,
+    "nyaa - chirrup": 560,
+    "miau... prrrp": 561,
+    "hisss - chirp": 562,
+    "nyan - mew": 563,
+    "miau screech": 564,
+    "miau - mrrp": 565,
+    "mao - miau": 566,
+    "mrow~ rowl": 567,
+    "trill! screech": 568,
+    "caterwaul~ meow": 569,
+    "mreoow squeak": 570,
+    "caterwaul - hisss": 571,
+    "mew~ mrow": 572,
+    "brrp chirp": 573,
+    "rowl mrow": 574,
+    "blep nyan": 575,
+    "mraow *purrs* mao": 576,
+    "wail... mrrp": 577,
+    "caterwaul~ brrt": 578,
+    "brrp~ chatter": 579,
+    "miau~ warble": 580,
+    "nya... mew": 581,
+    "trill - warble": 582,
+    "mrrp! brrt": 583,
+    "prrrp - nyaa": 584,
+    "nya *purrs* reeow": 585,
+    "caterwaul purrr": 586,
+    "wail! meow": 587,
+    "miau... trill": 588,
+    "rowl - mao": 589,
+    "nya *purrs* squeak": 590,
+    "mrrp *purrs* mreoow": 591,
+    "blep... chatter": 592,
+    "wail prrrp": 593,
+    "screech~ trill": 594,
+    "mrrrp wail": 595,
+    "purrr hisss": 596,
+    "prrrp mrrrp": 597,
+    "miau... mrrrp": 598,
+    "chirp warble": 599,
+    "purrr caterwaul": 600,
+    "nya *purrs* miau": 601,
+    "rowl hisss": 602,
+    "mrrp! reeow": 603,
+    "purrr... squeak": 604,
+    "yowl - chirrup": 605,
+    "mrrrp... wail": 606,
+    "squeak *purrs* chirrup": 607,
+    "mraow *purrs* chatter": 608,
+    "trill *purrs* reeow": 609,
+    "mao! mraow": 610,
+    "mrow - rowl": 611,
+    "chatter *purrs* caterwaul": 612,
+    "brrt~ trill": 613,
+    "rowl nyan": 614,
+    "brrp... brrt": 615,
+    "nya - screech": 616,
+    "chirrup~ chirp": 617,
+    "mao! mrrp": 618,
+    "nya - nyaa": 619,
+    "nyan *purrs* purrr": 620,
+    "mraow... warble": 621,
+    "mrrp~ screech": 622,
+    "blep - mrow": 623,
+    "mao - mao": 624,
+    "reeow~ mrrp": 625,
+    "purrr *purrs* mreoow": 626,
+    "chirrup brrt": 627,
+    "blep! miau": 628,
+    "mew... rowl": 629,
+    "squeak hisss": 630,
+    "mreoow... nya": 631,
+    "warble *purrs* mew": 632,
+    "screech - wail": 633,
+    "caterwaul - trill": 634,
+    "hisss *purrs* nyan": 635,
+    "warble! blep": 636,
+    "mraow blep": 637,
+    "hisss *purrs* blep": 638,
+    "caterwaul... prrrp": 639,
+    "wail *purrs* nyan": 640,
+    "chirp... mrrrp": 641,
+    "hisss *purrs* nya": 642,
+    "rowl! chirrup": 643,
+    "nya - miau": 644,
+    "brrt! brrp": 645,
+    "mreoow - brrp": 646,
+    "chatter~ nyan": 647,
+    "prrrp... screech": 648,
+    "nyan! wail": 649,
+    "blep! hisss": 650,
+    "chirrup mao": 651,
+    "yowl *purrs* warble": 652,
+    "caterwaul mrrp": 653,
+    "mreoow - rowl": 654,
+    "yowl~ caterwaul": 655,
+    "mraow *purrs* mrrp": 656,
+    "chirrup~ purrr": 657,
+    "yowl *purrs* squeak": 658,
+    "nyan... rowl": 659,
+    "trill! chirrup": 660,
+    "wail~ squeak": 661,
+    "caterwaul... brrt": 662,
+    "nyan *purrs* miau": 663,
+    "caterwaul! screech": 664,
+    "nyaa... mrrp": 665,
+    "rowl *purrs* nyan": 666,
+    "blep - chatter": 667,
+    "brrt - mrow": 668,
+    "mrow squeak": 669,
+    "squeak trill": 670,
+    "wail~ meow": 671,
+    "mrrp... squeak": 672,
+    "purrr... mew": 673,
+    "mrrp *purrs* meow": 674,
+    "reeow! miau": 675,
+    "mrow... mrrrp": 676,
+    "trill - blep": 677,
+    "blep... nyan": 678,
+    "nyan meow": 679,
+    "rowl~ rowl": 680,
+    "meow - meow": 681,
+    "caterwaul - mreoow": 682,
+    "mraow - meow": 683,
+    "squeak... chirp": 684,
+    "mao *purrs* screech": 685,
+    "prrrp blep": 686,
+    "reeow *purrs* mrrp": 687,
+    "hisss - mrrrp": 688,
+    "mreoow! squeak": 689,
+    "mreoow~ screech": 690,
+    "mew~ brrp": 691,
+    "miau *purrs* yowl": 692,
+    "chirp! purrr": 693,
+    "trill squeak": 694,
+    "brrt... warble": 695,
+    "wail mrow": 696,
+    "nya~ nya": 697,
+    "brrt... meow": 698,
+    "nyaa~ mew": 699,
+    "warble... mao": 700,
+    "screech - chirrup": 701,
+    "warble - prrrp": 702,
+    "blep *purrs* mrow": 703,
+    "hisss... chatter": 704,
+    "chatter~ yowl": 705,
+    "mreoow mrow": 706,
+    "trill! blep": 707,
+    "chatter - rowl": 708,
+    "trill *purrs* mrow": 709,
+    "blep! warble": 710,
+    "meow - hisss": 711,
+    "mrrp... wail": 712,
+    "squeak nya": 713,
+    "mraow - nyaa": 714,
+    "purrr~ yowl": 715,
+    "trill - chatter": 716,
+    "chirrup... nya": 717,
+    "mrrp... screech": 718,
+    "caterwaul - mew": 719,
+    "caterwaul brrp": 720,
+    "prrrp *purrs* mao": 721,
+    "squeak! mew": 722,
+    "mrrrp - wail": 723,
+    "mrrrp! nya": 724,
+    "mmmmmmeow": 725,
+    "nyannnnnn": 726,
+    "trrrrrill": 727,
+    "mrrrreoow": 728,
+    "mrrraow": 729,
+    "mrrrrrrrrp": 730,
+    "mmmmmmrrrrrrrrrpppp": 731,
+    "ppppppurrrrrr": 732,
+    "mmmmmeow": 733,
+    "sssssqueak": 734,
+    "sssssssqueak": 735,
+    "mrrrrrp": 736,
+    "nnnnnya": 737,
+    "catttttterrrrwaul": 738,
+    "chirrrrrrrup": 739,
+    "bleppppppp": 740,
+    "caterrrrrrwaul": 741,
+    "scrrrrrreech": 742,
+    "trrrrill": 743,
+    "mmmmmmrrreoow": 744,
+    "mmmmmmiau": 745,
+    "nnnnnnya": 746,
+    "brrrrrrrrrrp": 747,
+    "pppppurrrrrrrrrrrrrr": 748,
+    "pppppppurrrrrrrrr": 749,
+    "mmmmmmmiau": 750,
+    "chirrrrrpppppp": 751,
+    "prrrrrrrrp": 752,
+    "chirruppp": 753,
+    "pppprrrrrrrrrrrrpppppp": 754,
+    "ppppurrrrrrrr": 755,
+    "mmmmmmrrrrrrrrp": 756,
+    "chirrrppppppp": 757,
+    "hisssssssss": 758,
+    "prrrrrrrrrrrrrppppppp": 759,
+    "mmmmmew": 760,
+    "mrrrrrrpppppp": 761,
+    "mmmmmiau": 762,
+    "hissssssssssssss": 763,
+    "mmmmeow": 764,
+    "catttttterrrwaul": 765,
+    "prrrrrrrrrrrrrrpppppp": 766,
+    "pppprrrrrrrrppp": 767,
+    "mmmiau": 768,
+    "scrrrrrrreech": 769,
+    "chirpppppp": 770,
+    "nnnnyaa": 771,
+    "mmmmmmmrow": 772,
+    "chirppppppp": 773,
+    "chatttterrrrrr": 774,
+    "mmmmrrrreoow": 775,
+    "purrrrrrrr": 776,
+    "brrrrttttt": 777,
+    "mmmeow": 778,
+    "cattttterrrrrrrwaul": 779,
+    "mmmmmmao": 780,
+    "mreoooow": 781,
+    "mraaaoow": 782,
+    "waaarbleee": 783,
+    "squuueeeak": 784,
+    "bleeeeep": 785,
+    "warbleee": 786,
+    "waiiiil": 787,
+    "mreeeoooooow": 788,
+    "waaaarble": 789,
+    "reeeeeeow": 790,
+    "waaaaarble": 791,
+    "nyaan": 792,
+    "mrooooow": 793,
+    "reeeeeeooooow": 794,
+    "yoowl": 795,
+    "mraaaow": 796,
+    "meew": 797,
+    "prrrp prrrp": 798,
+    "chirp chirp": 799,
+    "nyannyannyan": 800,
+    "screech screech screech": 801,
+    "chirp chirp chirp chirp": 802,
+    "brrp-brrp": 803,
+    "purrrpurrrpurrrpurrr": 804,
+    "purrr-purrr": 805,
+    "nyaanyaa": 806,
+    "purrr purrr purrr purrr": 807,
+    "nya-nya": 808,
+    "chirrupchirrup": 809,
+    "hissshissshisss": 810,
+    "mrrp-mrrp": 811,
+    "meowmeow": 812,
+    "chirrup-chirrup": 813,
+    "purrr-purrr-purrr": 814,
+    "mrow mrow": 815,
+    "chatter-chatter-chatter-chatter": 816,
+    "caterwaulcaterwaul": 817,
+    "brrt~ squeak": 818,
+    "mew - yowl": 819,
+    "mrow... mao": 820,
+    "mrrp! purrr": 821,
+    "mreoow! warble": 822,
+    "blep~ screech": 823,
+    "chirp... squeak": 824,
+    "chirrup~ chirrup": 825,
+    "mreoow purrr": 826,
+    "hisss - mrrp": 827,
+    "prrrp mrrp": 828,
+    "nyaa~ miau": 829,
+    "rowl *purrs* brrp": 830,
+    "miau~ mraow": 831,
+    "mreoow warble": 832,
+    "mew... nyaa": 833,
+    "mraow... squeak": 834,
+    "chirp mrrrp": 835,
+    "hisss! squeak": 836,
+    "mrrp... mew": 837,
+    "purrr~ brrp": 838,
+    "reeow... mrow": 839,
+    "mraow *purrs* mreoow": 840,
+    "meow~ nya": 841,
+    "rowl - caterwaul": 842,
+    "purrr~ prrrp": 843,
+    "prrrp *purrs* screech": 844,
+    "prrrp meow": 845,
+    "squeak *purrs* wail": 846,
+    "mrrp~ hisss": 847,
+    "brrp... trill": 848,
+    "brrt - mew": 849,
+    "yowl mreoow": 850,
+    "meow *purrs* mew": 851,
+    "chatter~ brrt": 852,
+    "screech mrrp": 853,
+    "chatter! warble": 854,
+    "prrrp~ mrow": 855,
+    "mrow - nyaa": 856,
+    "mao... squeak": 857,
+    "nya nyan": 858,
+    "nya~ trill": 859,
+    "nyaa *purrs* brrp": 860,
+    "blep! nyaa": 861,
+    "mreoow *purrs* miau": 862,
+    "mrow - mrrrp": 863,
+    "mrrrp... purrr": 864,
+    "mraow~ nyan": 865,
+    "chatter~ rowl": 866,
+    "chattttttttttterrrrrr": 867,
+    "sssssscrrrrrreech": 868,
+    "brrrrrrrrp": 869,
+    "purrrrrrrrrrrrr": 870,
+    "brrrrrrrp": 871,
+    "brrrrrppppp": 872,
+    "bleppppp": 873,
+    "mmmmrrrrrrrrrrp": 874,
+    "nnnnnyaa": 875,
+    "mrrrrow": 876,
+    "ppppprrrrrrrrrrrrrrrrp": 877,
+    "mmmmmmrrrrrrrrrrppppppp": 878,
+    "chirrrrrrrpppp": 879,
+    "ttttrill": 880,
+    "catttterwaul": 881,
+    "mmmmmmmeow": 882,
+    "nnnnnnnya": 883,
+    "sssscrrreech": 884,
+    "chirrrrrup": 885,
+    "chaaaatteeeer": 886,
+    "squuueak": 887,
+    "mreeoooow": 888,
+    "cateerwauuuuul": 889,
+    "chiiiirp": 890,
+    "mraaaaaoooow": 891,
+    "nyaaaaaaaa": 892,
+    "screeeeeeeech": 893,
+    "squuuuueeeaak": 894,
+    "reeeeooow": 895,
+    "squuuueaak": 896,
+    "rowl-rowl-rowl": 897,
+    "mreoow-mreoow-mreoow": 898,
+    "yowl-yowl-yowl-yowl": 899,
+    "nyanya": 900,
+    "mraow-mraow-mraow-mraow": 901,
+    "wail wail wail": 902,
+    "caterwaulcaterwaulcaterwaul": 903,
+    "nyaa nyaa": 904,
+    "blep blep blep": 905,
+    "brrpbrrpbrrp": 906,
+    "yowl yowl yowl yowl": 907,
+    "mrowmrow": 908,
+    "mreoow-mreoow-mreoow-mreoow": 909,
+    "nyan nyan": 910,
+    "miaumiaumiau": 911,
+    "yowl prrrp": 912,
+    "reeow! trill": 913,
+    "rowl - brrt": 914,
+    "mrrrp! mraow": 915,
+    "mew! chirrup": 916,
+    "brrt! chirrup": 917,
+    "mreoow... brrt": 918,
+    "chatter! brrt": 919,
+    "wail purrr": 920,
+    "screech - warble": 921,
+    "nya! trill": 922,
+    "trill... mrrp": 923,
+    "meow~ brrt": 924,
+    "mraow~ mreoow": 925,
+    "nya... nya": 926,
+    "mrow... yowl": 927,
+    "chirrup... caterwaul": 928,
+    "purrr - trill": 929,
+    "brrt~ screech": 930,
+    "blep! trill": 931,
+    "reeow *purrs* mraow": 932,
+    "squeak - trill": 933,
+    "nyaa mraow": 934,
+    "nyan... mrrp": 935,
+    "mreoow - caterwaul": 936,
+    "wail *purrs* blep": 937,
+    "trill! chatter": 938,
+    "brrt *purrs* mew": 939,
+    "brrp... purrr": 940,
+    "warble~ mraow": 941,
+    "screech! chatter": 942,
+    "brrp - mreoow": 943,
+    "mraow miau": 944,
+    "nyan... mrow": 945,
+    "yowl - yowl": 946,
+    "mew *purrs* nyan": 947,
+    "reeow... prrrp": 948,
+    "nya! reeow": 949,
+    "mao *purrs* mrow": 950,
+    "mrrp! hisss": 951,
+    "mao~ yowl": 952,
+    "mrrp... chirrup": 953,
+    "nyaa wail": 954,
+    "nyan... chirrup": 955,
+    "nyaa... chirrup": 956,
+    "mrow~ meow": 957,
+    "mreoow *purrs* hisss": 958,
+    "hisssssssssss": 959,
+    "chirrrrrp": 960,
+    "cattttttterwaul": 961,
+    "chattttterrrrr": 962,
+    "hissssssss": 963,
+    "ppppurrrrr": 964,
+    "brrrrppppppp": 965,
+    "mrrrrrrrp": 966,
+    "chirppp": 967,
+    "mmmmmmrrrrrrrrrrrp": 968,
+    "prrrrrrrrrrp": 969,
+    "caaaateeeeerwaaaaul": 970,
+    "cateerwaul": 971,
+    "chaaaatteeer": 972,
+    "mreeeeeoooow": 973,
+    "maaaaaooooo": 974,
+    "chirruuup": 975,
+    "maaaooooo": 976,
+    "squueaaaaak": 977,
+    "waaarble": 978,
+    "chiirruuuuup": 979,
+    "miiiiiauuuu": 980,
+    "squeeeeaaak": 981,
+    "squeaaaaak": 982,
+    "squuuueeeeaak": 983,
+    "blepblepblepblep": 984,
+    "prrrp-prrrp-prrrp": 985,
+    "rowlrowlrowl": 986,
+    "caterwaul caterwaul": 987,
+    "nyanyanyanya": 988,
+    "mrrrpmrrrpmrrrp": 989,
+    "chatter-chatter-chatter": 990,
+    "chirpchirpchirpchirp": 991,
+    "warblewarblewarble": 992,
+    "nya nya": 993,
+    "mrrrpmrrrpmrrrpmrrrp": 994,
+    "blep-blep-blep": 995,
+    "rowl rowl": 996,
+    "caterwaul *purrs* mreoow": 997,
+    "mrrrp~ warble": 998,
+    "squeak... purrr": 999,
+    "chirp... chirp": 1000,
+    "brrp - wail": 1001,
+    "hisss... wail": 1002,
+    "hisss~ mraow": 1003,
+    "nyaa trill": 1004,
+    "nyaa... nyaa": 1005,
+    "reeow~ prrrp": 1006,
+    "mrow! mao": 1007,
+    "rowl *purrs* mreoow": 1008,
+    "nyaa! yowl": 1009,
+    "meow~ chirrup": 1010,
+    "chirp *purrs* blep": 1011,
+    "mrow! mrrp": 1012,
+    "mrrrp... mrow": 1013,
+    "mrrrp... squeak": 1014,
+    "mraow - nyan": 1015,
+    "rowl brrp": 1016,
+    "screech! chirp": 1017,
+    "reeow *purrs* purrr": 1018,
+    "reeow - mew": 1019,
+    "nyaa - mao": 1020,
+    "rowl nya": 1021,
+    "brrp *purrs* purrr": 1022,
+    "brrp *purrs* mraow": 1023,
+    "wail - mrrrp": 1024,
+    "meow... prrrp": 1025,
+    "brrp *purrs* miau": 1026,
+    "chatter - brrt": 1027,
+    "blep *purrs* mrrrp": 1028,
+    "mrow! trill": 1029,
+    "nya blep": 1030,
+    "nya - mreoow": 1031,
+    "caterwaul mraow": 1032,
+    "blep! reeow": 1033,
+    "reeow - screech": 1034,
+    "miau nyan": 1035,
+    "mraow... chatter": 1036,
+    "hisss - chirrup": 1037,
+    "mew *purrs* prrrp": 1038,
+    "wail - rowl": 1039,
+    "meow brrt": 1040,
+    "hisss... trill": 1041,
+    "wail... hisss": 1042,
+    "mao squeak": 1043,
+    "hisssssssssssss": 1044,
+    "mmmmmmmrrrrreoow": 1045,
+    "ppppppprrrrrrrp": 1046,
+    "ssssssscreech": 1047,
+    "nnnya": 1048,
+    "caterrrrrrrwaul": 1049
+  },
+  "total_count": 1050,
+  "embedding_dim": 384
+}

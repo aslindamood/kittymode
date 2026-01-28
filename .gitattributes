@@ -1,0 +1,66 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source code files
+*.py text diff=python
+*.pyw text diff=python
+*.pyi text diff=python
+*.pyx text diff=python
+# Web/Config files
+*.json text
+*.yaml text
+*.yml text
+*.toml text
+*.ini text
+*.cfg text
+*.conf text
+# Documentation
+*.md text diff=markdown
+*.txt text
+*.rst text
+LICENSE text
+README* text
+# Scripts
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sh text eol=lf
+# Git config
+.gitattributes text
+.gitignore text
+.gitmodules text
+# Binary files (no line ending conversion)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.svg binary
+# Data files (binary)
+*.npy binary
+*.npz binary
+*.pkl binary
+*.pickle binary
+*.h5 binary
+*.hdf5 binary
+# Model files (binary)
+*.onnx binary
+*.pt binary
+*.pth binary
+*.bin binary
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
+# Executables
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+# Spec files
+*.spec text
+models/onnx/model.onnx filter=lfs diff=lfs merge=lfs -text
+models/onnx/model.onnx.data filter=lfs diff=lfs merge=lfs -text
+data/embeddings.npy filter=lfs diff=lfs merge=lfs -text

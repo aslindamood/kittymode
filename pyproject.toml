@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kittymode"
+version = "1.0.0"
+description = "Transform keyboard gibberish into cat noises using AI similarity matching"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [
+    {name = "Kitty Mode Contributors"}
+]
+keywords = ["cat", "keyboard", "fun", "ai", "similarity"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: MacOS X",
+    "Environment :: Win32 (MS Windows)",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Games/Entertainment",
+]
+
+dependencies = [
+    "pynput>=1.7.6",
+    "sentence-transformers>=2.2.0",
+    "numpy>=1.24.0",
+    "pystray>=0.19.0",
+    "Pillow>=9.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "pyinstaller>=5.0.0",
+]
+macos = [
+    "pyobjc-framework-Cocoa>=9.0",
+    "pyobjc-framework-Quartz>=9.0",
+]
+
+[project.scripts]
+kittymode = "kittymode.main:main"
+
+[project.urls]
+Homepage = "https://github.com/yourusername/kittymode"
+Repository = "https://github.com/yourusername/kittymode"
+Issues = "https://github.com/yourusername/kittymode/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+kittymode = ["../data/*.json", "../data/*.npy"]

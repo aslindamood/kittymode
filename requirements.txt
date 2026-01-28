@@ -1,0 +1,19 @@
+pynput>=1.7.6
+numpy>=1.24.0
+pystray>=0.19.0
+Pillow>=9.0.0
+
+# ONNX Runtime for inference (much smaller than PyTorch)
+onnxruntime>=1.15.0
+transformers>=4.30.0
+
+# macOS-specific (optional, for better accessibility check)
+pyobjc-framework-Cocoa>=9.0; sys_platform == 'darwin'
+pyobjc-framework-Quartz>=9.0; sys_platform == 'darwin'
+
+# For exporting models to ONNX (development only, not needed at runtime)
+# pip install optimum[exporters] sentence-transformers
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
