@@ -19,8 +19,10 @@ class KittyModeToggle:
     
     # Hotkey modifier keys
     HOTKEY_MODIFIERS: Set[keyboard.Key] = {keyboard.Key.ctrl, keyboard.Key.shift}
-    # Hotkey character
+    # Hotkey character (and its Ctrl-modified form on Windows)
     HOTKEY_CHAR = 'k'
+    # Ctrl+K produces '\x0b' (vertical tab, ASCII 11) on Windows
+    HOTKEY_CTRL_CHAR = '\x0b'
     
     def __init__(self, on_toggle_callback: Callable[[bool], None]):
         """Initialize the toggle handler.
@@ -109,8 +111,10 @@ class KittyModeToggle:
             return
         
         # Check if the trigger key is the hotkey character
+        # Note: On Windows, Ctrl+K produces '\x0b' instead of 'k'
         try:
-            if trigger_key.char and trigger_key.char.lower() == self.HOTKEY_CHAR:
+            char = trigger_key.char
+            if char and (char.lower() == self.HOTKEY_CHAR or char == self.HOTKEY_CTRL_CHAR):
                 self._toggle()
         except AttributeError:
             # Not a character key
