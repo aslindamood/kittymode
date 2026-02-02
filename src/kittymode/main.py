@@ -26,6 +26,9 @@ class KittyMode:
     The cat's meow of keyboard-to-noise transformation! *purrs contentedly*
     """
     
+    # Minimum time between noise outputs (prevents feedback loops)
+    MIN_OUTPUT_INTERVAL_MS = 200
+    
     def __init__(self):
         """Initialize Kitty Mode application.
         
@@ -34,6 +37,9 @@ class KittyMode:
         # Load configuration - gotta know our purrferences!
         self.config_manager = ConfigManager()
         logger.info(f"Config loaded from: {self.config_manager.get_config_path()}")
+        
+        # Track last output time to prevent feedback loops
+        self._last_output_time: float = 0
         
         # Get config values
         typing_delay_ms = self.config_manager.get('typing_delay_ms', 0)
@@ -156,11 +162,18 @@ class KittyMode:
         if not captured or not self.enabled:
             return
         
+        # Check if we're triggering too quickly (feedback loop protection)
+        current_time = time.time()
+        time_since_last_ms = (current_time - self._last_output_time) * 1000
+        if time_since_last_ms < self.MIN_OUTPUT_INTERVAL_MS:
+            logger.debug(f"Ignoring capture - too soon after last output ({time_since_last_ms:.0f}ms)")
+            return
+        
         logger.debug(f"Capture complete: '{captured}' ({char_count} chars)")
         
-        # Temporarily disable listener to prevent feedback loop
+        # Suppress listener to prevent feedback loop
         # (our typed output would otherwise be captured as new input)
-        self.listener.disable()
+        self.listener.suppress()
         
         try:
             # Select a cat noise based on the input
@@ -173,9 +186,16 @@ class KittyMode:
             
             # Delete the captured characters and type the cat noise
             self.output.type_with_clear(noise, char_count, press_enter=self.press_enter_after)
+            
+            # Record the time of this output
+            self._last_output_time = time.time()
+            
+            # Additional delay to ensure all synthetic keystrokes are processed
+            # before we start listening again (prevents feedback loops)
+            time.sleep(0.1)
         finally:
-            # Re-enable listener after typing is complete
-            self.listener.enable()
+            # Resume listener after typing is complete
+            self.listener.unsuppress()
     
     def run(self) -> None:
         """Start Kitty Mode and run until interrupted."""
