@@ -39,6 +39,9 @@ class KeyboardListener:
         self._enabled = False
         self._listener: Optional[keyboard.Listener] = None
         
+        # Flag to suppress input during our own output (prevents feedback loops)
+        self._suppressed = False
+        
         # Create capture window
         self._capture_window = CaptureWindow(
             window_duration_ms=window_duration_ms,
@@ -123,13 +126,22 @@ class KeyboardListener:
         """Check if capturing is enabled."""
         return self._enabled
     
+    def suppress(self) -> None:
+        """Suppress input capturing temporarily (for our own output)."""
+        self._suppressed = True
+        self._capture_window.cancel()
+    
+    def unsuppress(self) -> None:
+        """Resume input capturing after suppression."""
+        self._suppressed = False
+    
     def _on_key_press(self, key) -> None:
         """Handle key press event.
         
         Args:
             key: The key that was pressed (pynput key object)
         """
-        if not self._enabled:
+        if not self._enabled or self._suppressed:
             return
         
         char = self._key_to_char(key)
